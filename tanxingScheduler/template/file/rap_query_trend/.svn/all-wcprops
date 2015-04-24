@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sem/bim/dm/!svn/ver/1111/trunk/statistics/tanxingScheduler/template/file/rap_query_trend
+END
+head.file
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sem/bim/dm/!svn/ver/1077/trunk/statistics/tanxingScheduler/template/file/rap_query_trend/head.file
+END
+get_sql.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sem/bim/dm/!svn/ver/1111/trunk/statistics/tanxingScheduler/template/file/rap_query_trend/get_sql.py
+END
+zoneList
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sem/bim/dm/!svn/ver/1077/trunk/statistics/tanxingScheduler/template/file/rap_query_trend/zoneList
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sem/bim/dm/!svn/ver/1111/trunk/statistics/tanxingScheduler/template/file/rap_query_trend/conf.py
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sem/bim/dm/!svn/ver/1111/trunk/statistics/tanxingScheduler/template/file/rap_query_trend/run.sh
+END

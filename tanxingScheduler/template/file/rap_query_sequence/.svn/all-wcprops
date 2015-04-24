@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sem/bim/dm/!svn/ver/1161/trunk/statistics/tanxingScheduler/template/file/rap_query_sequence
+END
+rap_query_sequence.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sem/bim/dm/!svn/ver/1161/trunk/statistics/tanxingScheduler/template/file/rap_query_sequence/rap_query_sequence.sh
+END
+qe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sem/bim/dm/!svn/ver/1077/trunk/statistics/tanxingScheduler/template/file/rap_query_sequence/qe.sh
+END
+head.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sem/bim/dm/!svn/ver/1075/trunk/statistics/tanxingScheduler/template/file/rap_query_sequence/head.sql
+END
+get_sql.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sem/bim/dm/!svn/ver/1118/trunk/statistics/tanxingScheduler/template/file/rap_query_sequence/get_sql.py
+END

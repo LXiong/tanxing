@@ -1,0 +1,16 @@
+
+##############################迭代共公尾部###################################
+if [ $? -ne 0 ]
+then
+    Alert "[${sf_stra_name}:${sf_iter_name}:${sf_time_stamp}] $RET_MSG" "${perf_mail_list}" "${warn_mesg_list}"
+    exit 1
+fi
+
+cd ${cur_path}
+RET_MSG=`put_succeed_tag ${sf_stra_name} ${sf_output_file} ${sf_output_dir}`
+if [ $? -ne 0 ]
+then
+    Alert "[${sf_stra_name}:${sf_iter_name}:${sf_time_stamp}] $RET_MSG" "${perf_mail_list}" "${warn_mesg_list}"
+    exit 1
+fi
+#############################################################################

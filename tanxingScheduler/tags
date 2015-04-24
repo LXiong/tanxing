@@ -1,0 +1,813 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ApiSDKJsonClient	template/file/effect_stat/ApiSDKJsonClient.py	/^class ApiSDKJsonClient():$/;"	c
+AuthBase	template/file/effect_stat/requests/auth.py	/^class AuthBase(object):$/;"	c
+AuthHeader	template/file/effect_stat/AuthHeader.py	/^class AuthHeader():$/;"	c
+BaseAdapter	template/file/effect_stat/requests/adapters.py	/^class BaseAdapter(object):$/;"	c
+BaseSSLError	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    class BaseSSLError(BaseException):$/;"	c
+Big5DistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class Big5DistributionAnalysis(CharDistributionAnalysis):$/;"	c
+Big5Prober	template/file/effect_stat/requests/packages/chardet/big5prober.py	/^class Big5Prober(MultiByteCharSetProber):$/;"	c
+CC	Makefile	/^CC=gcc$/;"	m
+CP949Prober	template/file/effect_stat/requests/packages/chardet/cp949prober.py	/^class CP949Prober(MultiByteCharSetProber):$/;"	c
+CaseInsensitiveDict	template/file/effect_stat/requests/structures.py	/^class CaseInsensitiveDict(collections.MutableMapping):$/;"	c
+CertificateError	template/file/effect_stat/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py	/^class CertificateError(ValueError):$/;"	c
+CharDistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class CharDistributionAnalysis:$/;"	c
+CharSetGroupProber	template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py	/^class CharSetGroupProber(CharSetProber):$/;"	c
+CharSetProber	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^class CharSetProber:$/;"	c
+ChunkedEncodingError	template/file/effect_stat/requests/exceptions.py	/^class ChunkedEncodingError(RequestException):$/;"	c
+ClosedPoolError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class ClosedPoolError(PoolError):$/;"	c
+CodingStateMachine	template/file/effect_stat/requests/packages/chardet/codingstatemachine.py	/^class CodingStateMachine:$/;"	c
+ConnectTimeoutError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class ConnectTimeoutError(TimeoutError):$/;"	c
+ConnectionError	template/file/effect_stat/requests/exceptions.py	/^class ConnectionError(RequestException):$/;"	c
+ConnectionError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class ConnectionError(HTTPError):$/;"	c
+ConnectionPool	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^class ConnectionPool(object):$/;"	c
+ContentDecodingError	template/file/effect_stat/requests/exceptions.py	/^class ContentDecodingError(RequestException, BaseHTTPError):$/;"	c
+CookieConflictError	template/file/effect_stat/requests/cookies.py	/^class CookieConflictError(RuntimeError):$/;"	c
+DecodeError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class DecodeError(HTTPError):$/;"	c
+DeflateDecoder	template/file/effect_stat/requests/packages/urllib3/response.py	/^class DeflateDecoder(object):$/;"	c
+DummyConnection	template/file/effect_stat/requests/packages/urllib3/connection.py	/^class DummyConnection(object):$/;"	c
+EUCJPContextAnalysis	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^class EUCJPContextAnalysis(JapaneseContextAnalysis):$/;"	c
+EUCJPDistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class EUCJPDistributionAnalysis(CharDistributionAnalysis):$/;"	c
+EUCJPProber	template/file/effect_stat/requests/packages/chardet/eucjpprober.py	/^class EUCJPProber(MultiByteCharSetProber):$/;"	c
+EUCKRDistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class EUCKRDistributionAnalysis(CharDistributionAnalysis):$/;"	c
+EUCKRProber	template/file/effect_stat/requests/packages/chardet/euckrprober.py	/^class EUCKRProber(MultiByteCharSetProber):$/;"	c
+EUCTWDistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class EUCTWDistributionAnalysis(CharDistributionAnalysis):$/;"	c
+EUCTWProber	template/file/effect_stat/requests/packages/chardet/euctwprober.py	/^class EUCTWProber(MultiByteCharSetProber):$/;"	c
+EmptyPoolError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class EmptyPoolError(PoolError):$/;"	c
+EscCharSetProber	template/file/effect_stat/requests/packages/chardet/escprober.py	/^class EscCharSetProber(CharSetProber):$/;"	c
+GB2312DistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class GB2312DistributionAnalysis(CharDistributionAnalysis):$/;"	c
+GB2312Prober	template/file/effect_stat/requests/packages/chardet/gb2312prober.py	/^class GB2312Prober(MultiByteCharSetProber):$/;"	c
+HTTPAdapter	template/file/effect_stat/requests/adapters.py	/^class HTTPAdapter(BaseAdapter):$/;"	c
+HTTPBasicAuth	template/file/effect_stat/requests/auth.py	/^class HTTPBasicAuth(AuthBase):$/;"	c
+HTTPConnection	template/file/effect_stat/requests/packages/urllib3/connection.py	/^class HTTPConnection(_HTTPConnection, object):$/;"	c
+HTTPConnectionPool	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^class HTTPConnectionPool(ConnectionPool, RequestMethods):$/;"	c
+HTTPDigestAuth	template/file/effect_stat/requests/auth.py	/^class HTTPDigestAuth(AuthBase):$/;"	c
+HTTPError	template/file/effect_stat/requests/exceptions.py	/^class HTTPError(RequestException):$/;"	c
+HTTPError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class HTTPError(Exception):$/;"	c
+HTTPHeaderDict	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^class HTTPHeaderDict(MutableMapping):$/;"	c
+HTTPProxyAuth	template/file/effect_stat/requests/auth.py	/^class HTTPProxyAuth(HTTPBasicAuth):$/;"	c
+HTTPResponse	template/file/effect_stat/requests/packages/urllib3/response.py	/^class HTTPResponse(io.IOBase):$/;"	c
+HTTPSConnection	template/file/effect_stat/requests/packages/urllib3/connection.py	/^class HTTPSConnection(HTTPConnection):$/;"	c
+HTTPSConnectionPool	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^class HTTPSConnectionPool(HTTPConnectionPool):$/;"	c
+HebrewProber	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^class HebrewProber(CharSetProber):$/;"	c
+HostChangedError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class HostChangedError(RequestError):$/;"	c
+InvalidSchema	template/file/effect_stat/requests/exceptions.py	/^class InvalidSchema(RequestException, ValueError):$/;"	c
+InvalidURL	template/file/effect_stat/requests/exceptions.py	/^class InvalidURL(RequestException, ValueError):$/;"	c
+Iterator	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    class Iterator(object):$/;"	c
+IteratorProxy	template/file/effect_stat/requests/structures.py	/^class IteratorProxy(object):$/;"	c
+JapaneseContextAnalysis	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^class JapaneseContextAnalysis:$/;"	c
+JsonEnvelop	template/file/effect_stat/JsonEnvelop.py	/^class JsonEnvelop():$/;"	c
+Latin1Prober	template/file/effect_stat/requests/packages/chardet/latin1prober.py	/^class Latin1Prober(CharSetProber):$/;"	c
+LocationParseError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class LocationParseError(ValueError, HTTPError):$/;"	c
+LookupDict	template/file/effect_stat/requests/structures.py	/^class LookupDict(dict):$/;"	c
+MBCSGroupProber	template/file/effect_stat/requests/packages/chardet/mbcsgroupprober.py	/^class MBCSGroupProber(CharSetGroupProber):$/;"	c
+MaxRetryError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class MaxRetryError(RequestError):$/;"	c
+MissingSchema	template/file/effect_stat/requests/exceptions.py	/^class MissingSchema(RequestException, ValueError):$/;"	c
+MockRequest	template/file/effect_stat/requests/cookies.py	/^class MockRequest(object):$/;"	c
+MockResponse	template/file/effect_stat/requests/cookies.py	/^class MockResponse(object):$/;"	c
+MovedAttribute	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^class MovedAttribute(_LazyDescr):$/;"	c
+MovedModule	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^class MovedModule(_LazyDescr):$/;"	c
+MultiByteCharSetProber	template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py	/^class MultiByteCharSetProber(CharSetProber):$/;"	c
+NTLMConnectionPool	template/file/effect_stat/requests/packages/urllib3/contrib/ntlmpool.py	/^class NTLMConnectionPool(HTTPSConnectionPool):$/;"	c
+NullHandler	template/file/effect_stat/requests/__init__.py	/^    class NullHandler(logging.Handler):$/;"	c
+NullHandler	template/file/effect_stat/requests/packages/urllib3/__init__.py	/^    class NullHandler(logging.Handler):$/;"	c
+OBJS	Makefile	/^OBJS=daemonize.o main.o cJSON.o$/;"	m
+OrderedDict	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^class OrderedDict(dict):$/;"	c
+PoolError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class PoolError(HTTPError):$/;"	c
+PoolManager	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^class PoolManager(RequestMethods):$/;"	c
+PreparedRequest	template/file/effect_stat/requests/models.py	/^class PreparedRequest(RequestEncodingMixin, RequestHooksMixin):$/;"	c
+ProxyError	template/file/effect_stat/requests/exceptions.py	/^class ProxyError(ConnectionError):$/;"	c
+ProxyError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class ProxyError(HTTPError):$/;"	c
+ProxyManager	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^class ProxyManager(PoolManager):$/;"	c
+RLock	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    class RLock:$/;"	c
+ReadTimeoutError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class ReadTimeoutError(TimeoutError, RequestError):$/;"	c
+RecentlyUsedContainer	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^class RecentlyUsedContainer(MutableMapping):$/;"	c
+Request	template/file/effect_stat/requests/models.py	/^class Request(RequestHooksMixin):$/;"	c
+RequestEncodingMixin	template/file/effect_stat/requests/models.py	/^class RequestEncodingMixin(object):$/;"	c
+RequestError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class RequestError(PoolError):$/;"	c
+RequestException	template/file/effect_stat/requests/exceptions.py	/^class RequestException(IOError):$/;"	c
+RequestField	template/file/effect_stat/requests/packages/urllib3/fields.py	/^class RequestField(object):$/;"	c
+RequestHooksMixin	template/file/effect_stat/requests/models.py	/^class RequestHooksMixin(object):$/;"	c
+RequestMethods	template/file/effect_stat/requests/packages/urllib3/request.py	/^class RequestMethods(object):$/;"	c
+RequestsCookieJar	template/file/effect_stat/requests/cookies.py	/^class RequestsCookieJar(cookielib.CookieJar, collections.MutableMapping):$/;"	c
+Response	template/file/effect_stat/requests/models.py	/^class Response(object):$/;"	c
+SBCSGroupProber	template/file/effect_stat/requests/packages/chardet/sbcsgroupprober.py	/^class SBCSGroupProber(CharSetGroupProber):$/;"	c
+SJISContextAnalysis	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^class SJISContextAnalysis(JapaneseContextAnalysis):$/;"	c
+SJISDistributionAnalysis	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^class SJISDistributionAnalysis(CharDistributionAnalysis):$/;"	c
+SJISProber	template/file/effect_stat/requests/packages/chardet/sjisprober.py	/^class SJISProber(MultiByteCharSetProber):$/;"	c
+SSLError	template/file/effect_stat/requests/exceptions.py	/^class SSLError(ConnectionError):$/;"	c
+SSLError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class SSLError(HTTPError):$/;"	c
+Session	template/file/effect_stat/requests/sessions.py	/^class Session(SessionRedirectMixin):$/;"	c
+SessionRedirectMixin	template/file/effect_stat/requests/sessions.py	/^class SessionRedirectMixin(object):$/;"	c
+SingleByteCharSetProber	template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py	/^class SingleByteCharSetProber(CharSetProber):$/;"	c
+SubjectAltName	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^class SubjectAltName(BaseSubjectAltName):$/;"	c
+TSTAT_DONE	main.c	23;"	d	file:
+TSTAT_FAIL	main.c	24;"	d	file:
+TSTAT_KILLED	main.c	26;"	d	file:
+TSTAT_NEW	main.c	20;"	d	file:
+TSTAT_RUN	main.c	22;"	d	file:
+TSTAT_TOKILL	main.c	25;"	d	file:
+TSTAT_WAIT	main.c	21;"	d	file:
+Timeout	template/file/effect_stat/requests/exceptions.py	/^class Timeout(RequestException):$/;"	c
+Timeout	template/file/effect_stat/requests/packages/urllib3/util.py	/^class Timeout(object):$/;"	c
+TimeoutError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class TimeoutError(HTTPError):$/;"	c
+TimeoutStateError	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^class TimeoutStateError(HTTPError):$/;"	c
+TooManyRedirects	template/file/effect_stat/requests/exceptions.py	/^class TooManyRedirects(RequestException):$/;"	c
+URLRequired	template/file/effect_stat/requests/exceptions.py	/^class URLRequired(RequestException):$/;"	c
+UTF8Prober	template/file/effect_stat/requests/packages/chardet/utf8prober.py	/^class UTF8Prober(CharSetProber):$/;"	c
+UniversalDetector	template/file/effect_stat/requests/packages/chardet/universaldetector.py	/^class UniversalDetector:$/;"	c
+Url	template/file/effect_stat/requests/packages/urllib3/util.py	/^class Url(namedtuple('Url', ['scheme', 'auth', 'host', 'port', 'path', 'query', 'fragment'])):$/;"	c
+VerifiedHTTPSConnection	template/file/effect_stat/requests/packages/urllib3/connection.py	/^class VerifiedHTTPSConnection(HTTPSConnection):$/;"	c
+WrappedSocket	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^class WrappedSocket(object):$/;"	c
+X	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^        class X(object):$/;"	c
+_LazyDescr	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^class _LazyDescr(object):$/;"	c
+_MovedItems	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^class _MovedItems(types.ModuleType):$/;"	c
+__bool__	template/file/effect_stat/requests/models.py	/^    def __bool__(self):$/;"	m	class:Response	file:
+__call__	template/file/effect_stat/requests/auth.py	/^    def __call__(self, r):$/;"	m	class:AuthBase	file:
+__call__	template/file/effect_stat/requests/auth.py	/^    def __call__(self, r):$/;"	m	class:HTTPBasicAuth	file:
+__call__	template/file/effect_stat/requests/auth.py	/^    def __call__(self, r):$/;"	m	class:HTTPDigestAuth	file:
+__call__	template/file/effect_stat/requests/auth.py	/^    def __call__(self, r):$/;"	m	class:HTTPProxyAuth	file:
+__delitem__	template/file/effect_stat/requests/cookies.py	/^    def __delitem__(self, name):$/;"	m	class:RequestsCookieJar	file:
+__delitem__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __delitem__(self, key):$/;"	m	class:HTTPHeaderDict	file:
+__delitem__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __delitem__(self, key):$/;"	m	class:RecentlyUsedContainer	file:
+__delitem__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __delitem__(self, key, dict_delitem=dict.__delitem__):$/;"	m	class:OrderedDict	file:
+__delitem__	template/file/effect_stat/requests/structures.py	/^    def __delitem__(self, key):$/;"	m	class:CaseInsensitiveDict	file:
+__enter__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^        def __enter__(self):$/;"	m	class:RLock	file:
+__enter__	template/file/effect_stat/requests/sessions.py	/^    def __enter__(self):$/;"	m	class:Session	file:
+__eq__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __eq__(self, other):$/;"	m	class:HTTPHeaderDict	file:
+__eq__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __eq__(self, other):$/;"	m	class:OrderedDict	file:
+__eq__	template/file/effect_stat/requests/structures.py	/^    def __eq__(self, other):$/;"	m	class:CaseInsensitiveDict	file:
+__exit__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^        def __exit__(self, exc_type, exc_value, traceback):$/;"	m	class:RLock	file:
+__exit__	template/file/effect_stat/requests/sessions.py	/^    def __exit__(self, *args):$/;"	m	class:Session	file:
+__get__	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def __get__(self, obj, tp):$/;"	m	class:_LazyDescr	file:
+__getattr__	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def __getattr__(self, name):$/;"	m	class:DeflateDecoder	file:
+__getitem__	template/file/effect_stat/requests/cookies.py	/^    def __getitem__(self, name):$/;"	m	class:RequestsCookieJar	file:
+__getitem__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __getitem__(self, key):$/;"	m	class:HTTPHeaderDict	file:
+__getitem__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __getitem__(self, key):$/;"	m	class:RecentlyUsedContainer	file:
+__getitem__	template/file/effect_stat/requests/structures.py	/^    def __getitem__(self, key):$/;"	m	class:CaseInsensitiveDict	file:
+__getitem__	template/file/effect_stat/requests/structures.py	/^    def __getitem__(self, key):$/;"	m	class:LookupDict	file:
+__getstate__	template/file/effect_stat/requests/adapters.py	/^    def __getstate__(self):$/;"	m	class:HTTPAdapter	file:
+__getstate__	template/file/effect_stat/requests/cookies.py	/^    def __getstate__(self):$/;"	m	class:RequestsCookieJar	file:
+__getstate__	template/file/effect_stat/requests/models.py	/^    def __getstate__(self):$/;"	m	class:Response	file:
+__getstate__	template/file/effect_stat/requests/sessions.py	/^    def __getstate__(self):$/;"	m	class:Session	file:
+__init__	template/file/effect_stat/ApiSDKJsonClient.py	/^    def __init__(self, productline,version,service): $/;"	m	class:ApiSDKJsonClient
+__init__	template/file/effect_stat/AuthHeader.py	/^    def __init__(self, username=None,password=None,token=None,target=None,accessToken=None): $/;"	m	class:AuthHeader
+__init__	template/file/effect_stat/JsonEnvelop.py	/^    def __init__(self,aheader=None,abody=None): $/;"	m	class:JsonEnvelop
+__init__	template/file/effect_stat/requests/adapters.py	/^    def __init__(self):$/;"	m	class:BaseAdapter
+__init__	template/file/effect_stat/requests/adapters.py	/^    def __init__(self, pool_connections=DEFAULT_POOLSIZE,$/;"	m	class:HTTPAdapter
+__init__	template/file/effect_stat/requests/auth.py	/^    def __init__(self, username, password):$/;"	m	class:HTTPBasicAuth
+__init__	template/file/effect_stat/requests/auth.py	/^    def __init__(self, username, password):$/;"	m	class:HTTPDigestAuth
+__init__	template/file/effect_stat/requests/cookies.py	/^    def __init__(self, headers):$/;"	m	class:MockResponse
+__init__	template/file/effect_stat/requests/cookies.py	/^    def __init__(self, request):$/;"	m	class:MockRequest
+__init__	template/file/effect_stat/requests/exceptions.py	/^    def __init__(self, *args, **kwargs):$/;"	m	class:RequestException
+__init__	template/file/effect_stat/requests/models.py	/^    def __init__(self):$/;"	m	class:PreparedRequest
+__init__	template/file/effect_stat/requests/models.py	/^    def __init__(self):$/;"	m	class:Response
+__init__	template/file/effect_stat/requests/models.py	/^    def __init__(self,$/;"	m	class:Request
+__init__	template/file/effect_stat/requests/packages/chardet/big5prober.py	/^    def __init__(self):$/;"	m	class:Big5Prober
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:Big5DistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:CharDistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:EUCJPDistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:EUCKRDistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:EUCTWDistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:GB2312DistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def __init__(self):$/;"	m	class:SJISDistributionAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py	/^    def __init__(self):$/;"	m	class:CharSetGroupProber
+__init__	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def __init__(self):$/;"	m	class:CharSetProber
+__init__	template/file/effect_stat/requests/packages/chardet/codingstatemachine.py	/^    def __init__(self, sm):$/;"	m	class:CodingStateMachine
+__init__	template/file/effect_stat/requests/packages/chardet/cp949prober.py	/^    def __init__(self):$/;"	m	class:CP949Prober
+__init__	template/file/effect_stat/requests/packages/chardet/escprober.py	/^    def __init__(self):$/;"	m	class:EscCharSetProber
+__init__	template/file/effect_stat/requests/packages/chardet/eucjpprober.py	/^    def __init__(self):$/;"	m	class:EUCJPProber
+__init__	template/file/effect_stat/requests/packages/chardet/euckrprober.py	/^    def __init__(self):$/;"	m	class:EUCKRProber
+__init__	template/file/effect_stat/requests/packages/chardet/euctwprober.py	/^    def __init__(self):$/;"	m	class:EUCTWProber
+__init__	template/file/effect_stat/requests/packages/chardet/gb2312prober.py	/^    def __init__(self):$/;"	m	class:GB2312Prober
+__init__	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def __init__(self):$/;"	m	class:HebrewProber
+__init__	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def __init__(self):$/;"	m	class:JapaneseContextAnalysis
+__init__	template/file/effect_stat/requests/packages/chardet/latin1prober.py	/^    def __init__(self):$/;"	m	class:Latin1Prober
+__init__	template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py	/^    def __init__(self):$/;"	m	class:MultiByteCharSetProber
+__init__	template/file/effect_stat/requests/packages/chardet/mbcsgroupprober.py	/^    def __init__(self):$/;"	m	class:MBCSGroupProber
+__init__	template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py	/^    def __init__(self, model, reversed=False, nameProber=None):$/;"	m	class:SingleByteCharSetProber
+__init__	template/file/effect_stat/requests/packages/chardet/sbcsgroupprober.py	/^    def __init__(self):$/;"	m	class:SBCSGroupProber
+__init__	template/file/effect_stat/requests/packages/chardet/sjisprober.py	/^    def __init__(self):$/;"	m	class:SJISProber
+__init__	template/file/effect_stat/requests/packages/chardet/universaldetector.py	/^    def __init__(self):$/;"	m	class:UniversalDetector
+__init__	template/file/effect_stat/requests/packages/chardet/utf8prober.py	/^    def __init__(self):$/;"	m	class:UTF8Prober
+__init__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __init__(self, headers=None, **kwargs):$/;"	m	class:HTTPHeaderDict
+__init__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __init__(self, maxsize=10, dispose_func=None):$/;"	m	class:RecentlyUsedContainer
+__init__	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def __init__(self, *args, **kw):$/;"	m	class:HTTPConnection
+__init__	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def __init__(self, host, port=None, key_file=None, cert_file=None,$/;"	m	class:HTTPSConnection
+__init__	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def __init__(self, host, port=None):$/;"	m	class:ConnectionPool
+__init__	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def __init__(self, host, port=None, strict=False,$/;"	m	class:HTTPConnectionPool
+__init__	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def __init__(self, host, port=None,$/;"	m	class:HTTPSConnectionPool
+__init__	template/file/effect_stat/requests/packages/urllib3/contrib/ntlmpool.py	/^    def __init__(self, user, pw, authurl, *args, **kwargs):$/;"	m	class:NTLMConnectionPool
+__init__	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def __init__(self, connection, socket):$/;"	m	class:WrappedSocket
+__init__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __init__(self, location):$/;"	m	class:LocationParseError
+__init__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __init__(self, pool, message):$/;"	m	class:PoolError
+__init__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __init__(self, pool, url, message):$/;"	m	class:RequestError
+__init__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __init__(self, pool, url, reason=None):$/;"	m	class:MaxRetryError
+__init__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __init__(self, pool, url, retries=3):$/;"	m	class:HostChangedError
+__init__	template/file/effect_stat/requests/packages/urllib3/fields.py	/^    def __init__(self, name, data, filename=None, headers=None):$/;"	m	class:RequestField
+__init__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __init__(self, *args, **kwds):$/;"	m	class:OrderedDict
+__init__	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def __init__(self, name):$/;"	m	class:_LazyDescr
+__init__	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def __init__(self, name, old, new=None):$/;"	m	class:MovedModule
+__init__	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def __init__(self, name, old_mod, new_mod, old_attr=None, new_attr=None):$/;"	m	class:MovedAttribute
+__init__	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def __init__(self, num_pools=10, headers=None, **connection_pool_kw):$/;"	m	class:PoolManager
+__init__	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def __init__(self, proxy_url, num_pools=10, headers=None,$/;"	m	class:ProxyManager
+__init__	template/file/effect_stat/requests/packages/urllib3/request.py	/^    def __init__(self, headers=None):$/;"	m	class:RequestMethods
+__init__	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def __init__(self):$/;"	m	class:DeflateDecoder
+__init__	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def __init__(self, body='', headers=None, status=0, version=0, reason=None,$/;"	m	class:HTTPResponse
+__init__	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def __init__(self, total=None, connect=_Default, read=_Default):$/;"	m	class:Timeout
+__init__	template/file/effect_stat/requests/sessions.py	/^    def __init__(self):$/;"	m	class:Session
+__init__	template/file/effect_stat/requests/structures.py	/^    def __init__(self, data=None, **kwargs):$/;"	m	class:CaseInsensitiveDict
+__init__	template/file/effect_stat/requests/structures.py	/^    def __init__(self, i):$/;"	m	class:IteratorProxy
+__init__	template/file/effect_stat/requests/structures.py	/^    def __init__(self, name=None):$/;"	m	class:LookupDict
+__init__	template/file/effect_stat/sms_v3_ReportService.py	/^	def __init__(self):$/;"	m	class:sms_v3_ReportService
+__iter__	template/file/effect_stat/requests/models.py	/^    def __iter__(self):$/;"	m	class:Response	file:
+__iter__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __iter__(self):$/;"	m	class:HTTPHeaderDict	file:
+__iter__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __iter__(self):$/;"	m	class:RecentlyUsedContainer	file:
+__iter__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __iter__(self):$/;"	m	class:OrderedDict	file:
+__iter__	template/file/effect_stat/requests/structures.py	/^    def __iter__(self):$/;"	m	class:CaseInsensitiveDict	file:
+__iter__	template/file/effect_stat/requests/structures.py	/^    def __iter__(self):$/;"	m	class:IteratorProxy	file:
+__len__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __len__(self):$/;"	m	class:HTTPHeaderDict	file:
+__len__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __len__(self):$/;"	m	class:RecentlyUsedContainer	file:
+__len__	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^            def __len__(self):$/;"	m	class:X	file:
+__len__	template/file/effect_stat/requests/structures.py	/^    def __len__(self):$/;"	m	class:CaseInsensitiveDict	file:
+__len__	template/file/effect_stat/requests/structures.py	/^    def __len__(self):$/;"	m	class:IteratorProxy	file:
+__ne__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __ne__(self, other):$/;"	m	class:OrderedDict	file:
+__new__	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def __new__(cls, scheme=None, auth=None, host=None, port=None, path=None, query=None, fragment=None):$/;"	m	class:Url	file:
+__nonzero__	template/file/effect_stat/requests/models.py	/^    def __nonzero__(self):$/;"	m	class:Response	file:
+__reduce__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __reduce__(self):$/;"	m	class:PoolError	file:
+__reduce__	template/file/effect_stat/requests/packages/urllib3/exceptions.py	/^    def __reduce__(self):$/;"	m	class:RequestError	file:
+__reduce__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __reduce__(self):$/;"	m	class:OrderedDict	file:
+__repr__	template/file/effect_stat/requests/models.py	/^    def __repr__(self):$/;"	m	class:PreparedRequest	file:
+__repr__	template/file/effect_stat/requests/models.py	/^    def __repr__(self):$/;"	m	class:Request	file:
+__repr__	template/file/effect_stat/requests/models.py	/^    def __repr__(self):$/;"	m	class:Response	file:
+__repr__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __repr__(self):$/;"	m	class:HTTPHeaderDict	file:
+__repr__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __repr__(self, _repr_running={}):$/;"	m	class:OrderedDict	file:
+__repr__	template/file/effect_stat/requests/structures.py	/^    def __repr__(self):$/;"	m	class:CaseInsensitiveDict	file:
+__repr__	template/file/effect_stat/requests/structures.py	/^    def __repr__(self):$/;"	m	class:LookupDict	file:
+__reversed__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __reversed__(self):$/;"	m	class:OrderedDict	file:
+__setitem__	template/file/effect_stat/requests/cookies.py	/^    def __setitem__(self, name, value):$/;"	m	class:RequestsCookieJar	file:
+__setitem__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __setitem__(self, key, value):$/;"	m	class:HTTPHeaderDict	file:
+__setitem__	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def __setitem__(self, key, value):$/;"	m	class:RecentlyUsedContainer	file:
+__setitem__	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def __setitem__(self, key, value, dict_setitem=dict.__setitem__):$/;"	m	class:OrderedDict	file:
+__setitem__	template/file/effect_stat/requests/structures.py	/^    def __setitem__(self, key, value):$/;"	m	class:CaseInsensitiveDict	file:
+__setstate__	template/file/effect_stat/requests/adapters.py	/^    def __setstate__(self, state):$/;"	m	class:HTTPAdapter	file:
+__setstate__	template/file/effect_stat/requests/cookies.py	/^    def __setstate__(self, state):$/;"	m	class:RequestsCookieJar	file:
+__setstate__	template/file/effect_stat/requests/models.py	/^    def __setstate__(self, state):$/;"	m	class:Response	file:
+__setstate__	template/file/effect_stat/requests/sessions.py	/^    def __setstate__(self, state):$/;"	m	class:Session	file:
+__str__	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def __str__(self):$/;"	m	class:ConnectionPool	file:
+__str__	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def __str__(self):$/;"	m	class:Timeout	file:
+_add_doc	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def _add_doc(func, doc):$/;"	f
+_basic_auth_str	template/file/effect_stat/requests/auth.py	/^def _basic_auth_str(username, password):$/;"	f
+_dnsname_match	template/file/effect_stat/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py	/^def _dnsname_match(dn, hostname, max_wildcards=1):$/;"	f
+_encode_files	template/file/effect_stat/requests/models.py	/^    def _encode_files(files, data):$/;"	m	class:RequestEncodingMixin
+_encode_params	template/file/effect_stat/requests/models.py	/^    def _encode_params(data):$/;"	m	class:RequestEncodingMixin
+_find	template/file/effect_stat/requests/cookies.py	/^    def _find(self, name, domain=None, path=None):$/;"	m	class:RequestsCookieJar
+_find_no_duplicates	template/file/effect_stat/requests/cookies.py	/^    def _find_no_duplicates(self, name, domain=None, path=None):$/;"	m	class:RequestsCookieJar
+_get_conn	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _get_conn(self, timeout=None):$/;"	m	class:HTTPConnectionPool
+_get_decoder	template/file/effect_stat/requests/packages/urllib3/response.py	/^def _get_decoder(mode):$/;"	f
+_get_timeout	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _get_timeout(self, timeout):$/;"	m	class:HTTPConnectionPool
+_import_module	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def _import_module(name):$/;"	f
+_make_request	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _make_request(self, conn, method, url, timeout=_Default,$/;"	m	class:HTTPConnectionPool
+_new_conn	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def _new_conn(self):$/;"	m	class:HTTPConnection
+_new_conn	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _new_conn(self):$/;"	m	class:HTTPConnectionPool
+_new_conn	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _new_conn(self):$/;"	m	class:HTTPSConnectionPool
+_new_conn	template/file/effect_stat/requests/packages/urllib3/contrib/ntlmpool.py	/^    def _new_conn(self):$/;"	m	class:NTLMConnectionPool
+_new_pool	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def _new_pool(self, scheme, host, port):$/;"	m	class:PoolManager
+_prepare_conn	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def _prepare_conn(self, conn):$/;"	m	class:HTTPConnection
+_prepare_conn	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _prepare_conn(self, conn):$/;"	m	class:HTTPSConnectionPool
+_put_conn	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def _put_conn(self, conn):$/;"	m	class:HTTPConnectionPool
+_render_part	template/file/effect_stat/requests/packages/urllib3/fields.py	/^    def _render_part(self, name, value):$/;"	m	class:RequestField
+_render_parts	template/file/effect_stat/requests/packages/urllib3/fields.py	/^    def _render_parts(self, header_parts):$/;"	m	class:RequestField
+_resolve	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def _resolve(self):$/;"	m	class:MovedAttribute
+_resolve	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def _resolve(self):$/;"	m	class:MovedModule
+_set_proxy_headers	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def _set_proxy_headers(self, url, headers=None):$/;"	m	class:ProxyManager
+_validate_timeout	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def _validate_timeout(cls, value, name):$/;"	m	class:Timeout
+_verify_callback	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^def _verify_callback(cnx, x509, err_no, err_depth, return_code):$/;"	f
+_wait_for_sock	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def _wait_for_sock(self):$/;"	m	class:fileobject
+add	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def add(self, key, value):$/;"	m	class:HTTPHeaderDict
+add_dict_to_cookiejar	template/file/effect_stat/requests/utils.py	/^def add_dict_to_cookiejar(cj, cookie_dict):$/;"	f
+add_header	template/file/effect_stat/requests/cookies.py	/^    def add_header(self, key, val):$/;"	m	class:MockRequest
+add_headers	template/file/effect_stat/requests/adapters.py	/^    def add_headers(self, request, **kwargs):$/;"	m	class:HTTPAdapter
+add_move	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def add_move(move):$/;"	f
+add_prefix	template/file/rap_click_distribution/get_sql.py	/^def add_prefix(x):$/;"	f
+add_stderr_logger	template/file/effect_stat/requests/packages/urllib3/__init__.py	/^def add_stderr_logger(level=logging.DEBUG):$/;"	f
+add_unredirected_header	template/file/effect_stat/requests/cookies.py	/^    def add_unredirected_header(self, name, value):$/;"	m	class:MockRequest
+address_in_network	template/file/effect_stat/requests/utils.py	/^def address_in_network(ip, net):$/;"	f
+advance_iterator	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def advance_iterator(it):$/;"	f
+apparent_encoding	template/file/effect_stat/requests/models.py	/^    def apparent_encoding(self):$/;"	m	class:Response
+assert_fingerprint	template/file/effect_stat/requests/packages/urllib3/util.py	/^def assert_fingerprint(cert, fingerprint):$/;"	f
+b	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def b(s):$/;"	f
+build_digest_header	template/file/effect_stat/requests/auth.py	/^    def build_digest_header(self, method, url):$/;"	m	class:HTTPDigestAuth
+build_response	template/file/effect_stat/requests/adapters.py	/^    def build_response(self, req, resp):$/;"	m	class:HTTPAdapter
+cJSON	cJSON.h	/^typedef struct cJSON {$/;"	s
+cJSON	cJSON.h	/^} cJSON;$/;"	t
+cJSON_AddBoolToObject	cJSON.h	132;"	d
+cJSON_AddFalseToObject	cJSON.h	131;"	d
+cJSON_AddItemReferenceToArray	cJSON.c	/^void	cJSON_AddItemReferenceToArray(cJSON *array, cJSON *item)						{cJSON_AddItemToArray(array,create_reference(item));}$/;"	f
+cJSON_AddItemReferenceToObject	cJSON.c	/^void	cJSON_AddItemReferenceToObject(cJSON *object,const char *string,cJSON *item)	{cJSON_AddItemToObject(object,string,create_reference(item));}$/;"	f
+cJSON_AddItemToArray	cJSON.c	/^void   cJSON_AddItemToArray(cJSON *array, cJSON *item)						{cJSON *c=array->child;if (!item) return; if (!c) {array->child=item;} else {while (c && c->next) c=c->next; suffix_object(c,item);}}$/;"	f
+cJSON_AddItemToObject	cJSON.c	/^void   cJSON_AddItemToObject(cJSON *object,const char *string,cJSON *item)	{if (!item) return; if (item->string) cJSON_free(item->string);item->string=cJSON_strdup(string);cJSON_AddItemToArray(object,item);}$/;"	f
+cJSON_AddNullToObject	cJSON.h	129;"	d
+cJSON_AddNumberToObject	cJSON.h	133;"	d
+cJSON_AddStringToObject	cJSON.h	134;"	d
+cJSON_AddTrueToObject	cJSON.h	130;"	d
+cJSON_Array	cJSON.h	37;"	d
+cJSON_CreateArray	cJSON.c	/^cJSON *cJSON_CreateArray(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_Array;return item;}$/;"	f
+cJSON_CreateBool	cJSON.c	/^cJSON *cJSON_CreateBool(int b)					{cJSON *item=cJSON_New_Item();if(item)item->type=b?cJSON_True:cJSON_False;return item;}$/;"	f
+cJSON_CreateDoubleArray	cJSON.c	/^cJSON *cJSON_CreateDoubleArray(const double *numbers,int count)	{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateNumber(numbers[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateFalse	cJSON.c	/^cJSON *cJSON_CreateFalse(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_False;return item;}$/;"	f
+cJSON_CreateFloatArray	cJSON.c	/^cJSON *cJSON_CreateFloatArray(const float *numbers,int count)	{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateNumber(numbers[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateIntArray	cJSON.c	/^cJSON *cJSON_CreateIntArray(const int *numbers,int count)		{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateNumber(numbers[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateNull	cJSON.c	/^cJSON *cJSON_CreateNull(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_NULL;return item;}$/;"	f
+cJSON_CreateNumber	cJSON.c	/^cJSON *cJSON_CreateNumber(double num)			{cJSON *item=cJSON_New_Item();if(item){item->type=cJSON_Number;item->valuedouble=num;item->valueint=(int)num;}return item;}$/;"	f
+cJSON_CreateObject	cJSON.c	/^cJSON *cJSON_CreateObject(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_Object;return item;}$/;"	f
+cJSON_CreateString	cJSON.c	/^cJSON *cJSON_CreateString(const char *string)	{cJSON *item=cJSON_New_Item();if(item){item->type=cJSON_String;item->valuestring=cJSON_strdup(string);}return item;}$/;"	f
+cJSON_CreateStringArray	cJSON.c	/^cJSON *cJSON_CreateStringArray(const char **strings,int count)	{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateString(strings[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateTrue	cJSON.c	/^cJSON *cJSON_CreateTrue(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_True;return item;}$/;"	f
+cJSON_Delete	cJSON.c	/^void cJSON_Delete(cJSON *c)$/;"	f
+cJSON_DeleteItemFromArray	cJSON.c	/^void   cJSON_DeleteItemFromArray(cJSON *array,int which)			{cJSON_Delete(cJSON_DetachItemFromArray(array,which));}$/;"	f
+cJSON_DeleteItemFromObject	cJSON.c	/^void   cJSON_DeleteItemFromObject(cJSON *object,const char *string) {cJSON_Delete(cJSON_DetachItemFromObject(object,string));}$/;"	f
+cJSON_DetachItemFromArray	cJSON.c	/^cJSON *cJSON_DetachItemFromArray(cJSON *array,int which)			{cJSON *c=array->child;while (c && which>0) c=c->next,which--;if (!c) return 0;$/;"	f
+cJSON_DetachItemFromObject	cJSON.c	/^cJSON *cJSON_DetachItemFromObject(cJSON *object,const char *string) {int i=0;cJSON *c=object->child;while (c && cJSON_strcasecmp(c->string,string)) i++,c=c->next;if (c) return cJSON_DetachItemFromArray(object,i);return 0;}$/;"	f
+cJSON_Duplicate	cJSON.c	/^cJSON *cJSON_Duplicate(cJSON *item,int recurse)$/;"	f
+cJSON_False	cJSON.h	32;"	d
+cJSON_GetArrayItem	cJSON.c	/^cJSON *cJSON_GetArrayItem(cJSON *array,int item)				{cJSON *c=array->child;  while (c && item>0) item--,c=c->next; return c;}$/;"	f
+cJSON_GetArraySize	cJSON.c	/^int    cJSON_GetArraySize(cJSON *array)							{cJSON *c=array->child;int i=0;while(c)i++,c=c->next;return i;}$/;"	f
+cJSON_GetErrorPtr	cJSON.c	/^const char *cJSON_GetErrorPtr(void) {return ep;}$/;"	f
+cJSON_GetObjectItem	cJSON.c	/^cJSON *cJSON_GetObjectItem(cJSON *object,const char *string)	{cJSON *c=object->child; while (c && cJSON_strcasecmp(c->string,string)) c=c->next; return c;}$/;"	f
+cJSON_Hooks	cJSON.h	/^typedef struct cJSON_Hooks {$/;"	s
+cJSON_Hooks	cJSON.h	/^} cJSON_Hooks;$/;"	t
+cJSON_InitHooks	cJSON.c	/^void cJSON_InitHooks(cJSON_Hooks* hooks)$/;"	f
+cJSON_IsReference	cJSON.h	40;"	d
+cJSON_Minify	cJSON.c	/^void cJSON_Minify(char *json)$/;"	f
+cJSON_NULL	cJSON.h	34;"	d
+cJSON_New_Item	cJSON.c	/^static cJSON *cJSON_New_Item(void)$/;"	f	file:
+cJSON_Number	cJSON.h	35;"	d
+cJSON_Object	cJSON.h	38;"	d
+cJSON_Parse	cJSON.c	/^cJSON *cJSON_Parse(const char *value) {return cJSON_ParseWithOpts(value,0,0);}$/;"	f
+cJSON_ParseWithOpts	cJSON.c	/^cJSON *cJSON_ParseWithOpts(const char *value,const char **return_parse_end,int require_null_terminated)$/;"	f
+cJSON_Print	cJSON.c	/^char *cJSON_Print(cJSON *item)				{return print_value(item,0,1);}$/;"	f
+cJSON_PrintUnformatted	cJSON.c	/^char *cJSON_PrintUnformatted(cJSON *item)	{return print_value(item,0,0);}$/;"	f
+cJSON_ReplaceItemInArray	cJSON.c	/^void   cJSON_ReplaceItemInArray(cJSON *array,int which,cJSON *newitem)		{cJSON *c=array->child;while (c && which>0) c=c->next,which--;if (!c) return;$/;"	f
+cJSON_ReplaceItemInObject	cJSON.c	/^void   cJSON_ReplaceItemInObject(cJSON *object,const char *string,cJSON *newitem){int i=0;cJSON *c=object->child;while(c && cJSON_strcasecmp(c->string,string))i++,c=c->next;if(c){newitem->string=cJSON_strdup(string);cJSON_ReplaceItemInArray(object,i,newitem);}}$/;"	f
+cJSON_SetIntValue	cJSON.h	137;"	d
+cJSON_String	cJSON.h	36;"	d
+cJSON_True	cJSON.h	33;"	d
+cJSON__h	cJSON.h	24;"	d
+cJSON_free	cJSON.c	/^static void (*cJSON_free)(void *ptr) = free;$/;"	v	file:
+cJSON_malloc	cJSON.c	/^static void *(*cJSON_malloc)(size_t sz) = malloc;$/;"	v	file:
+cJSON_strcasecmp	cJSON.c	/^static int cJSON_strcasecmp(const char *s1,const char *s2)$/;"	f	file:
+cJSON_strdup	cJSON.c	/^static char* cJSON_strdup(const char* str)$/;"	f	file:
+callable	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def callable(obj):$/;"	f
+cert_verify	template/file/effect_stat/requests/adapters.py	/^    def cert_verify(self, conn, url, verify, cert):$/;"	m	class:HTTPAdapter
+checkStatus	main.c	/^int checkStatus(int idx){$/;"	f
+check_para	template/file/effect_stat/py_grep.py	/^def check_para(argv):$/;"	f
+child	cJSON.h	/^	struct cJSON *child;		\/* An array or object item will have a child pointer pointing to a chain of the items in the array\/object. *\/$/;"	m	struct:cJSON
+choose_boundary	template/file/effect_stat/requests/packages/urllib3/filepost.py	/^def choose_boundary():$/;"	f
+cidian_label	template/file/word_tagging/autotag.py	/^def cidian_label(dic,query):$/;"	f
+clear	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def clear(self):$/;"	m	class:RecentlyUsedContainer
+clear	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def clear(self):$/;"	m	class:OrderedDict
+clear	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def clear(self):$/;"	m	class:PoolManager
+clone	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def clone(self):$/;"	m	class:Timeout
+close	template/file/effect_stat/requests/adapters.py	/^    def close(self):$/;"	m	class:BaseAdapter
+close	template/file/effect_stat/requests/adapters.py	/^    def close(self):$/;"	m	class:HTTPAdapter
+close	template/file/effect_stat/requests/models.py	/^    def close(self):$/;"	m	class:Response
+close	template/file/effect_stat/requests/packages/chardet/universaldetector.py	/^    def close(self):$/;"	m	class:UniversalDetector
+close	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def close(self):$/;"	m	class:HTTPConnectionPool
+close	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def close(self):$/;"	m	class:WrappedSocket
+close	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def close(self):$/;"	m	class:HTTPResponse
+close	template/file/effect_stat/requests/sessions.py	/^    def close(self):$/;"	m	class:Session
+closed	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def closed(self):$/;"	m	class:HTTPResponse
+connect	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def connect(self):$/;"	m	class:HTTPConnection
+connect	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def connect(self):$/;"	m	class:HTTPSConnection
+connect	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def connect(self):$/;"	m	class:VerifiedHTTPSConnection
+connect_timeout	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def connect_timeout(self):$/;"	m	class:Timeout
+connection_from_host	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def connection_from_host(self, host, port=None, scheme='http'):$/;"	m	class:PoolManager
+connection_from_host	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def connection_from_host(self, host, port=None, scheme='http'):$/;"	m	class:ProxyManager
+connection_from_url	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^def connection_from_url(url, **kw):$/;"	f
+connection_from_url	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def connection_from_url(self, url):$/;"	m	class:PoolManager
+content	template/file/effect_stat/requests/models.py	/^    def content(self):$/;"	m	class:Response
+convert_to_builtin_type	template/file/effect_stat/ApiSDKJsonClient.py	/^def convert_to_builtin_type(obj):$/;"	f
+cookiejar_from_dict	template/file/effect_stat/requests/cookies.py	/^def cookiejar_from_dict(cookie_dict, cookiejar=None, overwrite=True):$/;"	f
+copy	template/file/effect_stat/requests/cookies.py	/^    def copy(self):$/;"	m	class:RequestsCookieJar
+copy	template/file/effect_stat/requests/models.py	/^    def copy(self):$/;"	m	class:PreparedRequest
+copy	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def copy(self):$/;"	m	class:HTTPHeaderDict
+copy	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def copy(self):$/;"	m	class:OrderedDict
+copy	template/file/effect_stat/requests/structures.py	/^    def copy(self):$/;"	m	class:CaseInsensitiveDict
+create_cookie	template/file/effect_stat/requests/cookies.py	/^def create_cookie(name, value, **kwargs):$/;"	f
+create_reference	cJSON.c	/^static cJSON *create_reference(cJSON *item) {cJSON *ref=cJSON_New_Item();if (!ref) return 0;memcpy(ref,item,sizeof(cJSON));ref->string=0;ref->type|=cJSON_IsReference;ref->next=ref->prev=0;return ref;}$/;"	f	file:
+current_time	template/file/effect_stat/requests/packages/urllib3/util.py	/^def current_time():$/;"	f
+daemonExit	daemonize.c	/^void daemonExit(int status){$/;"	f
+daemonize	daemonize.c	/^void daemonize(const char* runningDir, const char* logFile, const char* lockFile)$/;"	f
+daemonizeLock	daemonize.c	/^char *daemonizeLock = "daemonize.lock";$/;"	v
+daemonizeLog	daemonize.c	/^char *daemonizeLog = "daemonize.log";$/;"	v
+daemonize__h	daemonize.h	10;"	d
+data	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def data(self):$/;"	m	class:HTTPResponse
+decompress	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def decompress(self, data):$/;"	m	class:DeflateDecoder
+default_headers	template/file/effect_stat/requests/utils.py	/^def default_headers():$/;"	f
+default_hooks	template/file/effect_stat/requests/hooks.py	/^def default_hooks():$/;"	f
+default_user_agent	template/file/effect_stat/requests/utils.py	/^def default_user_agent(name="python-requests"):$/;"	f
+delete	template/file/effect_stat/requests/api.py	/^def delete(url, **kwargs):$/;"	f
+delete	template/file/effect_stat/requests/sessions.py	/^    def delete(self, url, **kwargs):$/;"	m	class:Session
+deleteTaskInfo	main.c	/^void deleteTaskInfo(int i){$/;"	f
+deregister_hook	template/file/effect_stat/requests/models.py	/^    def deregister_hook(self, event, hook):$/;"	m	class:RequestHooksMixin
+description_of	template/file/effect_stat/requests/packages/chardet/chardetect.py	/^def description_of(file, name='stdin'):$/;"	f
+detect	template/file/effect_stat/requests/packages/chardet/__init__.py	/^def detect(aBuf):$/;"	f
+dict_from_cookiejar	template/file/effect_stat/requests/utils.py	/^def dict_from_cookiejar(cj):$/;"	f
+dict_to_sequence	template/file/effect_stat/requests/utils.py	/^def dict_to_sequence(d):$/;"	f
+dispatch_hook	template/file/effect_stat/requests/hooks.py	/^def dispatch_hook(key, hooks, hook_data, **kwargs):$/;"	f
+doTask10	main.c	/^void doTask10(int id, const char* result_type, MYSQL *connTaskInfo, const char *templateDir){$/;"	f
+doTask11	main.c	/^void doTask11(int id, const char* result_type, MYSQL *connTaskInfo, const char *templateDir){$/;"	f
+doTask3	main.c	/^void doTask3(int id, const char* result_type, MYSQL *connTaskInfo, const char *templateDir){$/;"	f
+doTask4	main.c	/^void doTask4(int id, const char* result_type, MYSQL *connTaskInfo, const char *templateDir){$/;"	f
+doTask5	main.c	/^void doTask5(int id, const char* result_type, MYSQL *connTaskInfo, MYSQL *connDict, const char *templateDir){$/;"	f
+doTask7	main.c	/^void doTask7(int id, const char* result_type, MYSQL *connTaskInfo, MYSQL *connDict, const char *templateDir){$/;"	f
+doTask9	main.c	/^void doTask9(int id, const char* result_type, MYSQL *connTaskInfo, const char *templateDir){$/;"	f
+dotted_netmask	template/file/effect_stat/requests/utils.py	/^def dotted_netmask(mask):$/;"	f
+emit	template/file/effect_stat/requests/__init__.py	/^        def emit(self, record):$/;"	m	class:NullHandler
+emit	template/file/effect_stat/requests/packages/urllib3/__init__.py	/^        def emit(self, record):$/;"	m	class:NullHandler
+encode_multipart_formdata	template/file/effect_stat/requests/packages/urllib3/filepost.py	/^def encode_multipart_formdata(fields, boundary=None):$/;"	f
+ep	cJSON.c	/^static const char *ep;$/;"	v	file:
+except_on_missing_scheme	template/file/effect_stat/requests/utils.py	/^def except_on_missing_scheme(url):$/;"	f
+exec_	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def exec_(code, globs=None, locs=None):$/;"	f
+execute	template/file/effect_stat/ApiSDKJsonClient.py	/^    def execute(self,method,request):$/;"	m	class:ApiSDKJsonClient
+exit_with_help	template/file/effect_stat/py_grep.py	/^def exit_with_help():$/;"	f
+exit_with_help	template/file/rap_click_distribution/get_sql.py	/^def exit_with_help(info):$/;"	f
+extract_cookies_to_jar	template/file/effect_stat/requests/cookies.py	/^def extract_cookies_to_jar(jar, request, response):$/;"	f
+extract_from_urllib3	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^def extract_from_urllib3():$/;"	f
+feed	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def feed(self, aBuf, aCharLen):$/;"	m	class:CharDistributionAnalysis
+feed	template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py	/^    def feed(self, aBuf):$/;"	m	class:CharSetGroupProber
+feed	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def feed(self, aBuf):$/;"	m	class:CharSetProber
+feed	template/file/effect_stat/requests/packages/chardet/escprober.py	/^    def feed(self, aBuf):$/;"	m	class:EscCharSetProber
+feed	template/file/effect_stat/requests/packages/chardet/eucjpprober.py	/^    def feed(self, aBuf):$/;"	m	class:EUCJPProber
+feed	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def feed(self, aBuf):$/;"	m	class:HebrewProber
+feed	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def feed(self, aBuf, aLen):$/;"	m	class:JapaneseContextAnalysis
+feed	template/file/effect_stat/requests/packages/chardet/latin1prober.py	/^    def feed(self, aBuf):$/;"	m	class:Latin1Prober
+feed	template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py	/^    def feed(self, aBuf):$/;"	m	class:MultiByteCharSetProber
+feed	template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py	/^    def feed(self, aBuf):$/;"	m	class:SingleByteCharSetProber
+feed	template/file/effect_stat/requests/packages/chardet/sjisprober.py	/^    def feed(self, aBuf):$/;"	m	class:SJISProber
+feed	template/file/effect_stat/requests/packages/chardet/universaldetector.py	/^    def feed(self, aBuf):$/;"	m	class:UniversalDetector
+feed	template/file/effect_stat/requests/packages/chardet/utf8prober.py	/^    def feed(self, aBuf):$/;"	m	class:UTF8Prober
+file_get_contents	extractTemplate.py	/^def file_get_contents(file):$/;"	f
+file_put_contents	extractTemplate.py	/^def file_put_contents(file, contents):$/;"	f
+fileno	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def fileno(self):$/;"	m	class:WrappedSocket
+fileno	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def fileno(self):$/;"	m	class:HTTPResponse
+fileobject	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^class fileobject(_fileobject):$/;"	c
+filter_high_bit_only	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def filter_high_bit_only(self, aBuf):$/;"	m	class:CharSetProber
+filter_with_english_letters	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def filter_with_english_letters(self, aBuf):$/;"	m	class:CharSetProber
+filter_without_english_letters	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def filter_without_english_letters(self, aBuf):$/;"	m	class:CharSetProber
+firstByteMark	cJSON.c	/^static const unsigned char firstByteMark[7] = { 0x00, 0x00, 0xC0, 0xE0, 0xF0, 0xF8, 0xFC };$/;"	v	file:
+flush	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def flush(self):$/;"	m	class:HTTPResponse
+format_header_param	template/file/effect_stat/requests/packages/urllib3/fields.py	/^def format_header_param(name, value):$/;"	f
+free_fn	cJSON.h	/^      void (*free_fn)(void *ptr);$/;"	m	struct:cJSON_Hooks
+from_float	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def from_float(cls, timeout):$/;"	m	class:Timeout
+from_httplib	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def from_httplib(ResponseCls, r, **response_kw):$/;"	m	class:HTTPResponse
+from_key_val_list	template/file/effect_stat/requests/utils.py	/^def from_key_val_list(value):$/;"	f
+from_tuples	template/file/effect_stat/requests/packages/urllib3/fields.py	/^    def from_tuples(cls, fieldname, value):$/;"	m	class:RequestField
+fromkeys	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def fromkeys(cls, iterable, value=None):$/;"	m	class:OrderedDict
+generate	template/file/effect_stat/requests/models.py	/^        def generate():$/;"	m	class:Response
+get	template/file/effect_stat/requests/api.py	/^def get(url, **kwargs):$/;"	f
+get	template/file/effect_stat/requests/cookies.py	/^    def get(self, name, default=None, domain=None, path=None):$/;"	m	class:RequestsCookieJar
+get	template/file/effect_stat/requests/sessions.py	/^    def get(self, url, **kwargs):$/;"	m	class:Session
+get	template/file/effect_stat/requests/structures.py	/^    def get(self, key, default=None):$/;"	m	class:LookupDict
+getProfessionalReportId	template/file/effect_stat/sms_v3_ReportService.py	/^	def getProfessionalReportId(self, GetProfessionalReportIdRequest=None):$/;"	m	class:sms_v3_ReportService
+getRealTimeData	template/file/effect_stat/sms_v3_ReportService.py	/^	def getRealTimeData(self, GetRealTimeDataRequest=None):$/;"	m	class:sms_v3_ReportService
+getRealTimePairData	template/file/effect_stat/sms_v3_ReportService.py	/^	def getRealTimePairData(self, GetRealTimePairDataRequest=None):$/;"	m	class:sms_v3_ReportService
+getRealTimeQueryData	template/file/effect_stat/sms_v3_ReportService.py	/^	def getRealTimeQueryData(self, GetRealTimeQueryDataRequest=None):$/;"	m	class:sms_v3_ReportService
+getReportFileUrl	template/file/effect_stat/sms_v3_ReportService.py	/^	def getReportFileUrl(self, GetReportFileUrlRequest=None):$/;"	m	class:sms_v3_ReportService
+getReportState	template/file/effect_stat/sms_v3_ReportService.py	/^	def getReportState(self, GetReportStateRequest=None):$/;"	m	class:sms_v3_ReportService
+get_adapter	template/file/effect_stat/requests/sessions.py	/^    def get_adapter(self, url):$/;"	m	class:Session
+get_auth_from_url	template/file/effect_stat/requests/utils.py	/^def get_auth_from_url(url):$/;"	f
+get_charset_name	template/file/effect_stat/requests/packages/chardet/big5prober.py	/^    def get_charset_name(self):$/;"	m	class:Big5Prober
+get_charset_name	template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py	/^    def get_charset_name(self):$/;"	m	class:CharSetGroupProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def get_charset_name(self):$/;"	m	class:CharSetProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/cp949prober.py	/^    def get_charset_name(self):$/;"	m	class:CP949Prober
+get_charset_name	template/file/effect_stat/requests/packages/chardet/escprober.py	/^    def get_charset_name(self):$/;"	m	class:EscCharSetProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/eucjpprober.py	/^    def get_charset_name(self):$/;"	m	class:EUCJPProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/euckrprober.py	/^    def get_charset_name(self):$/;"	m	class:EUCKRProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/euctwprober.py	/^    def get_charset_name(self):$/;"	m	class:EUCTWProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/gb2312prober.py	/^    def get_charset_name(self):$/;"	m	class:GB2312Prober
+get_charset_name	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def get_charset_name(self):$/;"	m	class:HebrewProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/latin1prober.py	/^    def get_charset_name(self):$/;"	m	class:Latin1Prober
+get_charset_name	template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py	/^    def get_charset_name(self):$/;"	m	class:MultiByteCharSetProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py	/^    def get_charset_name(self):$/;"	m	class:SingleByteCharSetProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/sjisprober.py	/^    def get_charset_name(self):$/;"	m	class:SJISProber
+get_charset_name	template/file/effect_stat/requests/packages/chardet/utf8prober.py	/^    def get_charset_name(self):$/;"	m	class:UTF8Prober
+get_coding_state_machine	template/file/effect_stat/requests/packages/chardet/codingstatemachine.py	/^    def get_coding_state_machine(self):$/;"	m	class:CodingStateMachine
+get_confidence	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_confidence(self):$/;"	m	class:CharDistributionAnalysis
+get_confidence	template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py	/^    def get_confidence(self):$/;"	m	class:CharSetGroupProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def get_confidence(self):$/;"	m	class:CharSetProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/escprober.py	/^    def get_confidence(self):$/;"	m	class:EscCharSetProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/eucjpprober.py	/^    def get_confidence(self):$/;"	m	class:EUCJPProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def get_confidence(self):$/;"	m	class:JapaneseContextAnalysis
+get_confidence	template/file/effect_stat/requests/packages/chardet/latin1prober.py	/^    def get_confidence(self):$/;"	m	class:Latin1Prober
+get_confidence	template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py	/^    def get_confidence(self):$/;"	m	class:MultiByteCharSetProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py	/^    def get_confidence(self):$/;"	m	class:SingleByteCharSetProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/sjisprober.py	/^    def get_confidence(self):$/;"	m	class:SJISProber
+get_confidence	template/file/effect_stat/requests/packages/chardet/utf8prober.py	/^    def get_confidence(self):$/;"	m	class:UTF8Prober
+get_connect_duration	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def get_connect_duration(self):$/;"	m	class:Timeout
+get_connection	template/file/effect_stat/requests/adapters.py	/^    def get_connection(self, url, proxies=None):$/;"	m	class:HTTPAdapter
+get_cookie_header	template/file/effect_stat/requests/cookies.py	/^def get_cookie_header(jar, request):$/;"	f
+get_current_charlen	template/file/effect_stat/requests/packages/chardet/codingstatemachine.py	/^    def get_current_charlen(self):$/;"	m	class:CodingStateMachine
+get_date_list	template/file/rap_click_distribution/conf.py	/^def get_date_list(date_range):$/;"	f
+get_dict	template/file/effect_stat/requests/cookies.py	/^    def get_dict(self, domain=None, path=None):$/;"	m	class:RequestsCookieJar
+get_encoding_from_headers	template/file/effect_stat/requests/utils.py	/^def get_encoding_from_headers(headers):$/;"	f
+get_encodings_from_content	template/file/effect_stat/requests/utils.py	/^def get_encodings_from_content(content):$/;"	f
+get_environ_proxies	template/file/effect_stat/requests/utils.py	/^def get_environ_proxies(url):$/;"	f
+get_full_url	template/file/effect_stat/requests/cookies.py	/^    def get_full_url(self):$/;"	m	class:MockRequest
+get_header	template/file/effect_stat/requests/cookies.py	/^    def get_header(self, name, default=None):$/;"	m	class:MockRequest
+get_host	template/file/effect_stat/requests/cookies.py	/^    def get_host(self):$/;"	m	class:MockRequest
+get_host	template/file/effect_stat/requests/packages/urllib3/util.py	/^def get_host(url):$/;"	f
+get_intersection	template/file/effect_stat/py_grep.py	/^def get_intersection(all_map, search_list, out_file):$/;"	f
+get_netrc_auth	template/file/effect_stat/requests/utils.py	/^def get_netrc_auth(url):$/;"	f
+get_new_headers	template/file/effect_stat/requests/cookies.py	/^    def get_new_headers(self):$/;"	m	class:MockRequest
+get_obj_report	template/file/effect_stat/get_report_by_sms_api.py	/^def get_obj_report(service, request, acc_name, report_file):$/;"	f
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:Big5DistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:CharDistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:EUCJPDistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:EUCKRDistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:EUCTWDistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:GB2312DistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def get_order(self, aBuf):$/;"	m	class:SJISDistributionAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def get_order(self, aBuf):$/;"	m	class:EUCJPContextAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def get_order(self, aBuf):$/;"	m	class:JapaneseContextAnalysis
+get_order	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def get_order(self, aBuf):$/;"	m	class:SJISContextAnalysis
+get_origin_req_host	template/file/effect_stat/requests/cookies.py	/^    def get_origin_req_host(self):$/;"	m	class:MockRequest
+get_redirect_location	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def get_redirect_location(self):$/;"	m	class:HTTPResponse
+get_sql_body	template/file/rap_click_distribution/get_sql.py	/^def get_sql_body(sql_para_map,table_name):$/;"	f
+get_sql_head	template/file/rap_click_distribution/get_sql.py	/^def get_sql_head(fn):$/;"	f
+get_sql_para_map	template/file/rap_click_distribution/get_sql.py	/^def get_sql_para_map(fn):$/;"	f
+get_sql_wordbag	template/file/rap_click_distribution/get_sql.py	/^def get_sql_wordbag(fn,table_name):$/;"	f
+get_state	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def get_state(self):$/;"	m	class:CharSetProber
+get_state	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def get_state(self):$/;"	m	class:HebrewProber
+get_subj_alt_name	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^def get_subj_alt_name(peer_cert):$/;"	f
+get_type	template/file/effect_stat/requests/cookies.py	/^    def get_type(self):$/;"	m	class:MockRequest
+get_unbound_function	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def get_unbound_function(unbound):$/;"	f
+get_unicode_from_response	template/file/effect_stat/requests/utils.py	/^def get_unicode_from_response(r):$/;"	f
+getheader	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def getheader(self, name, default=None):$/;"	m	class:HTTPResponse
+getheaders	template/file/effect_stat/requests/cookies.py	/^    def getheaders(self, name):$/;"	m	class:MockResponse
+getheaders	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def getheaders(self):$/;"	m	class:HTTPResponse
+getlist	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def getlist(self, key):$/;"	m	class:HTTPHeaderDict
+getpeercert	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def getpeercert(self, binary_form=False):$/;"	m	class:WrappedSocket
+got_enough_data	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def got_enough_data(self):$/;"	m	class:CharDistributionAnalysis
+got_enough_data	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def got_enough_data(self):$/;"	m	class:JapaneseContextAnalysis
+guess_content_type	template/file/effect_stat/requests/packages/urllib3/fields.py	/^def guess_content_type(filename, default='application\/octet-stream'):$/;"	f
+guess_filename	template/file/effect_stat/requests/utils.py	/^def guess_filename(obj):$/;"	f
+guess_json_utf	template/file/effect_stat/requests/utils.py	/^def guess_json_utf(data):$/;"	f
+handle_401	template/file/effect_stat/requests/auth.py	/^    def handle_401(self, r, **kwargs):$/;"	m	class:HTTPDigestAuth
+has_header	template/file/effect_stat/requests/cookies.py	/^    def has_header(self, name):$/;"	m	class:MockRequest
+head	template/file/effect_stat/requests/api.py	/^def head(url, **kwargs):$/;"	f
+head	template/file/effect_stat/requests/sessions.py	/^    def head(self, url, **kwargs):$/;"	m	class:Session
+help	extractTemplate.py	/^def help(out = -1):$/;"	f
+host	template/file/effect_stat/requests/cookies.py	/^    def host(self):$/;"	m	class:MockRequest
+hostname	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def hostname(self):$/;"	m	class:Url
+id	main.c	/^    int *id;$/;"	m	struct:taskInfo	file:
+info	template/file/effect_stat/requests/cookies.py	/^    def info(self):$/;"	m	class:MockResponse
+initConfig	template/file/effect_stat/ApiSDKJsonClient.py	/^    def initConfig(self):$/;"	m	class:ApiSDKJsonClient
+init_poolmanager	template/file/effect_stat/requests/adapters.py	/^    def init_poolmanager(self, connections, maxsize, block=DEFAULT_POOLBLOCK):$/;"	m	class:HTTPAdapter
+inject_into_urllib3	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^def inject_into_urllib3():$/;"	f
+int2byte	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^        def int2byte(i):$/;"	f
+is_connection_dropped	template/file/effect_stat/requests/packages/urllib3/util.py	/^def is_connection_dropped(conn):  # Platform-specific$/;"	f
+is_final	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def is_final(self, c):$/;"	m	class:HebrewProber
+is_fp_closed	template/file/effect_stat/requests/packages/urllib3/util.py	/^def is_fp_closed(obj):$/;"	f
+is_ipv4_address	template/file/effect_stat/requests/utils.py	/^def is_ipv4_address(string_ip):$/;"	f
+is_non_final	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def is_non_final(self, c):$/;"	m	class:HebrewProber
+is_redirect	template/file/effect_stat/requests/models.py	/^    def is_redirect(self):$/;"	m	class:Response
+is_same_host	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def is_same_host(self, url):$/;"	m	class:HTTPConnectionPool
+is_unverifiable	template/file/effect_stat/requests/cookies.py	/^    def is_unverifiable(self):$/;"	m	class:MockRequest
+is_valid_cidr	template/file/effect_stat/requests/utils.py	/^def is_valid_cidr(string_network):$/;"	f
+items	template/file/effect_stat/requests/cookies.py	/^    def items(self):$/;"	m	class:RequestsCookieJar
+items	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def items(self):$/;"	m	class:OrderedDict
+iter_content	template/file/effect_stat/requests/models.py	/^    def iter_content(self, chunk_size=1, decode_unicode=False):$/;"	m	class:Response
+iter_field_objects	template/file/effect_stat/requests/packages/urllib3/filepost.py	/^def iter_field_objects(fields):$/;"	f
+iter_fields	template/file/effect_stat/requests/packages/urllib3/filepost.py	/^def iter_fields(fields):$/;"	f
+iter_lines	template/file/effect_stat/requests/models.py	/^    def iter_lines(self, chunk_size=ITER_CHUNK_SIZE, decode_unicode=None):$/;"	m	class:Response
+iter_slices	template/file/effect_stat/requests/utils.py	/^def iter_slices(string, slice_length):$/;"	f
+iteritems	template/file/effect_stat/requests/cookies.py	/^    def iteritems(self):$/;"	m	class:RequestsCookieJar
+iteritems	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def iteritems(self):$/;"	m	class:OrderedDict
+iteritems	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def iteritems(d):$/;"	f
+iterkeys	template/file/effect_stat/requests/cookies.py	/^    def iterkeys(self):$/;"	m	class:RequestsCookieJar
+iterkeys	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def iterkeys(self):$/;"	m	class:OrderedDict
+iterkeys	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def iterkeys(d):$/;"	f
+itervalues	template/file/effect_stat/requests/cookies.py	/^    def itervalues(self):$/;"	m	class:RequestsCookieJar
+itervalues	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def itervalues(self):$/;"	m	class:OrderedDict
+itervalues	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def itervalues(d):$/;"	f
+json	template/file/effect_stat/requests/models.py	/^    def json(self, **kwargs):$/;"	m	class:Response
+keys	template/file/effect_stat/requests/cookies.py	/^    def keys(self):$/;"	m	class:RequestsCookieJar
+keys	template/file/effect_stat/requests/packages/urllib3/_collections.py	/^    def keys(self):$/;"	m	class:RecentlyUsedContainer
+keys	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def keys(self):$/;"	m	class:OrderedDict
+killTask	main.c	/^void killTask(int id, MYSQL *connTaskInfo){$/;"	f
+label_by_rules	template/file/word_tagging/autotag.py	/^def label_by_rules(regulars,rules,labels,acct,ind,lines,qry,account):$/;"	f
+len	main.c	/^    int len;$/;"	m	struct:taskInfo	file:
+links	template/file/effect_stat/requests/models.py	/^    def links(self):$/;"	m	class:Response
+list	main.c	/^    struct taskList** list;$/;"	m	struct:taskInfo	file:
+list_domains	template/file/effect_stat/requests/cookies.py	/^    def list_domains(self):$/;"	m	class:RequestsCookieJar
+list_paths	template/file/effect_stat/requests/cookies.py	/^    def list_paths(self):$/;"	m	class:RequestsCookieJar
+loadJsonFile	main.c	/^cJSON *loadJsonFile(const char* filename){$/;"	f
+load_file	template/file/effect_stat/soc_formatted.py	/^def load_file(filename, encode='utf-8'):$/;"	f
+load_file2list	template/file/effect_stat/py_grep.py	/^def load_file2list(in_file):$/;"	f
+load_file2map	template/file/effect_stat/py_grep.py	/^def load_file2map(in_file, col_index):$/;"	f
+load_rules	template/file/word_tagging/autotag.py	/^def load_rules(url):$/;"	f
+log_message	daemonize.c	/^void log_message(const char *filename, const char *message)$/;"	f
+lower_items	template/file/effect_stat/requests/structures.py	/^    def lower_items(self):$/;"	m	class:CaseInsensitiveDict
+main	main.c	/^int main(int argc, char** argv){$/;"	f
+main	template/file/effect_stat/add_tag_to_report.py	/^def main(argv = sys.argv):$/;"	f
+main	template/file/effect_stat/get_report_by_sms_api.py	/^def main(argv = sys.argv):$/;"	f
+main	template/file/effect_stat/py_grep.py	/^def main(argv = sys.argv):$/;"	f
+main	template/file/effect_stat/requests/packages/chardet/chardetect.py	/^def main():$/;"	f
+main	template/file/rap_click_distribution/bind_out.py	/^def main(argv):$/;"	f
+main	template/file/rap_click_distribution/conf.py	/^def main(argv):$/;"	f
+main	template/file/rap_click_distribution/get_sql.py	/^def main(argv):$/;"	f
+main	template/file/rap_tagged_dict/autotag.py	/^def main(argv):$/;"	f
+main	template/file/word_tagging/autotag.py	/^def main(argv):$/;"	f
+make_headers	template/file/effect_stat/requests/packages/urllib3/util.py	/^def make_headers(keep_alive=None, accept_encoding=None, user_agent=None,$/;"	f
+make_multipart	template/file/effect_stat/requests/packages/urllib3/fields.py	/^    def make_multipart(self, content_disposition=None, content_type=None, content_location=None):$/;"	m	class:RequestField
+makefile	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def makefile(self, mode, bufsize=-1):$/;"	m	class:WrappedSocket
+malloc_fn	cJSON.h	/^      void *(*malloc_fn)(size_t sz);$/;"	m	struct:cJSON_Hooks
+match_hostname	template/file/effect_stat/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py	/^def match_hostname(cert, hostname):$/;"	f
+md5_utf8	template/file/effect_stat/requests/auth.py	/^            def md5_utf8(x):$/;"	m	class:HTTPDigestAuth
+merge_cookies	template/file/effect_stat/requests/cookies.py	/^def merge_cookies(cookiejar, cookies):$/;"	f
+merge_hooks	template/file/effect_stat/requests/sessions.py	/^def merge_hooks(request_hooks, session_hooks, dict_class=OrderedDict):$/;"	f
+merge_setting	template/file/effect_stat/requests/sessions.py	/^def merge_setting(request_setting, session_setting, dict_class=OrderedDict):$/;"	f
+morsel_to_cookie	template/file/effect_stat/requests/cookies.py	/^def morsel_to_cookie(morsel):$/;"	f
+mount	template/file/effect_stat/requests/sessions.py	/^    def mount(self, prefix, adapter):$/;"	m	class:Session
+multiple_domains	template/file/effect_stat/requests/cookies.py	/^    def multiple_domains(self):$/;"	m	class:RequestsCookieJar
+mysql_config_cflags	Makefile	/^mysql_config_cflags=$(shell mysql_config --cflags)$/;"	m
+mysql_config_libs	Makefile	/^mysql_config_libs=$(shell mysql_config --libs)$/;"	m
+netloc	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def netloc(self):$/;"	m	class:Url
+next	cJSON.h	/^	struct cJSON *next,*prev;	\/* next\/prev allow you to walk array\/object chains. Alternatively, use GetArraySize\/GetArrayItem\/GetObjectItem *\/$/;"	m	struct:cJSON
+next	main.c	/^    struct taskList *next;$/;"	m	struct:taskList	file:
+next	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^        def next(self):$/;"	m	class:Iterator
+next_state	template/file/effect_stat/requests/packages/chardet/codingstatemachine.py	/^    def next_state(self, c):$/;"	m	class:CodingStateMachine
+ok	template/file/effect_stat/requests/models.py	/^    def ok(self):$/;"	m	class:Response
+options	template/file/effect_stat/requests/api.py	/^def options(url, **kwargs):$/;"	f
+options	template/file/effect_stat/requests/sessions.py	/^    def options(self, url, **kwargs):$/;"	m	class:Session
+origin_req_host	template/file/effect_stat/requests/cookies.py	/^    def origin_req_host(self):$/;"	m	class:MockRequest
+parse_array	cJSON.c	/^static const char *parse_array(cJSON *item,const char *value)$/;"	f	file:
+parse_dict_header	template/file/effect_stat/requests/utils.py	/^def parse_dict_header(value):$/;"	f
+parse_header_links	template/file/effect_stat/requests/utils.py	/^def parse_header_links(value):$/;"	f
+parse_hex4	cJSON.c	/^static unsigned parse_hex4(const char *str)$/;"	f	file:
+parse_list_header	template/file/effect_stat/requests/utils.py	/^def parse_list_header(value):$/;"	f
+parse_number	cJSON.c	/^static const char *parse_number(cJSON *item,const char *num)$/;"	f	file:
+parse_object	cJSON.c	/^static const char *parse_object(cJSON *item,const char *value)$/;"	f	file:
+parse_string	cJSON.c	/^static const char *parse_string(cJSON *item,const char *str)$/;"	f	file:
+parse_url	template/file/effect_stat/requests/packages/urllib3/util.py	/^def parse_url(url):$/;"	f
+parse_value	cJSON.c	/^static const char *parse_value(cJSON *item,const char *value)$/;"	f	file:
+patch	template/file/effect_stat/requests/api.py	/^def patch(url, data=None, **kwargs):$/;"	f
+patch	template/file/effect_stat/requests/sessions.py	/^    def patch(self, url, data=None, **kwargs):$/;"	m	class:Session
+path_url	template/file/effect_stat/requests/models.py	/^    def path_url(self):$/;"	m	class:RequestEncodingMixin
+pop	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def pop(self, key, default=__marker):$/;"	m	class:OrderedDict
+popitem	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def popitem(self, last=True):$/;"	m	class:OrderedDict
+post	template/file/effect_stat/requests/api.py	/^def post(url, data=None, **kwargs):$/;"	f
+post	template/file/effect_stat/requests/sessions.py	/^    def post(self, url, data=None, **kwargs):$/;"	m	class:Session
+prepare	template/file/effect_stat/requests/models.py	/^    def prepare(self):$/;"	m	class:Request
+prepare	template/file/effect_stat/requests/models.py	/^    def prepare(self, method=None, url=None, headers=None, files=None,$/;"	m	class:PreparedRequest
+prepare_auth	template/file/effect_stat/requests/models.py	/^    def prepare_auth(self, auth, url=''):$/;"	m	class:PreparedRequest
+prepare_body	template/file/effect_stat/requests/models.py	/^    def prepare_body(self, data, files):$/;"	m	class:PreparedRequest
+prepare_content_length	template/file/effect_stat/requests/models.py	/^    def prepare_content_length(self, body):$/;"	m	class:PreparedRequest
+prepare_cookies	template/file/effect_stat/requests/models.py	/^    def prepare_cookies(self, cookies):$/;"	m	class:PreparedRequest
+prepare_headers	template/file/effect_stat/requests/models.py	/^    def prepare_headers(self, headers):$/;"	m	class:PreparedRequest
+prepare_hooks	template/file/effect_stat/requests/models.py	/^    def prepare_hooks(self, hooks):$/;"	m	class:PreparedRequest
+prepare_method	template/file/effect_stat/requests/models.py	/^    def prepare_method(self, method):$/;"	m	class:PreparedRequest
+prepare_request	template/file/effect_stat/requests/sessions.py	/^    def prepare_request(self, request):$/;"	m	class:Session
+prepare_url	template/file/effect_stat/requests/models.py	/^    def prepare_url(self, url, params):$/;"	m	class:PreparedRequest
+prev	cJSON.h	/^	struct cJSON *next,*prev;	\/* next\/prev allow you to walk array\/object chains. Alternatively, use GetArraySize\/GetArrayItem\/GetObjectItem *\/$/;"	m	struct:cJSON
+printJsonResponse	template/file/effect_stat/ApiSDKJsonClient.py	/^def printJsonResponse(res):$/;"	f
+print_	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def print_(*args, **kwargs):$/;"	f
+print_array	cJSON.c	/^static char *print_array(cJSON *item,int depth,int fmt)$/;"	f	file:
+print_help	main.c	/^void print_help(){$/;"	f
+print_number	cJSON.c	/^static char *print_number(cJSON *item)$/;"	f	file:
+print_object	cJSON.c	/^static char *print_object(cJSON *item,int depth,int fmt)$/;"	f	file:
+print_string	cJSON.c	/^static char *print_string(cJSON *item)	{return print_string_ptr(item->valuestring);}$/;"	f	file:
+print_string_ptr	cJSON.c	/^static char *print_string_ptr(const char *str)$/;"	f	file:
+print_value	cJSON.c	/^static char *print_value(cJSON *item,int depth,int fmt)$/;"	f	file:
+proxy_from_url	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^def proxy_from_url(url, **kw):$/;"	f
+proxy_headers	template/file/effect_stat/requests/adapters.py	/^    def proxy_headers(self, proxy):$/;"	m	class:HTTPAdapter
+put	template/file/effect_stat/requests/api.py	/^def put(url, data=None, **kwargs):$/;"	f
+put	template/file/effect_stat/requests/sessions.py	/^    def put(self, url, data=None, **kwargs):$/;"	m	class:Session
+raise_for_status	template/file/effect_stat/requests/models.py	/^    def raise_for_status(self):$/;"	m	class:Response
+read	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def read(self, size=-1):$/;"	m	class:fileobject
+read	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def read(self, amt=None, decode_content=None, cache_content=False):$/;"	m	class:HTTPResponse
+read	template/file/effect_stat/requests/structures.py	/^    def read(self, n):$/;"	m	class:IteratorProxy
+read_dict	template/file/rap_tagged_dict/autotag.py	/^def read_dict(fn):$/;"	f
+read_dict	template/file/word_tagging/autotag.py	/^def read_dict(filename):$/;"	f
+read_rules	template/file/rap_tagged_dict/autotag.py	/^def read_rules(fn):$/;"	f
+read_timeout	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def read_timeout(self):$/;"	m	class:Timeout
+readable	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def readable(self):$/;"	m	class:HTTPResponse
+readline	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def readline(self, size=-1):$/;"	m	class:fileobject
+rebuild_auth	template/file/effect_stat/requests/sessions.py	/^    def rebuild_auth(self, prepared_request, response):$/;"	m	class:SessionRedirectMixin
+rebuild_proxies	template/file/effect_stat/requests/sessions.py	/^    def rebuild_proxies(self, prepared_request, proxies):$/;"	m	class:SessionRedirectMixin
+recursiveCopy	extractTemplate.py	/^def recursiveCopy(src, dst):$/;"	f
+register_hook	template/file/effect_stat/requests/models.py	/^    def register_hook(self, event, hook):$/;"	m	class:RequestHooksMixin
+release_conn	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def release_conn(self):$/;"	m	class:HTTPResponse
+remove_cookie_by_name	template/file/effect_stat/requests/cookies.py	/^def remove_cookie_by_name(cookiejar, name, domain=None, path=None):$/;"	f
+remove_move	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def remove_move(name):$/;"	f
+render_headers	template/file/effect_stat/requests/packages/urllib3/fields.py	/^    def render_headers(self):$/;"	m	class:RequestField
+request	template/file/effect_stat/requests/api.py	/^def request(method, url, **kwargs):$/;"	f
+request	template/file/effect_stat/requests/packages/urllib3/request.py	/^    def request(self, method, url, fields=None, headers=None, **urlopen_kw):$/;"	m	class:RequestMethods
+request	template/file/effect_stat/requests/sessions.py	/^    def request(self, method, url,$/;"	m	class:Session
+request_encode_body	template/file/effect_stat/requests/packages/urllib3/request.py	/^    def request_encode_body(self, method, url, fields=None, headers=None,$/;"	m	class:RequestMethods
+request_encode_url	template/file/effect_stat/requests/packages/urllib3/request.py	/^    def request_encode_url(self, method, url, fields=None, **urlopen_kw):$/;"	m	class:RequestMethods
+request_uri	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def request_uri(self):$/;"	m	class:Url
+request_url	template/file/effect_stat/requests/adapters.py	/^    def request_url(self, request, proxies):$/;"	m	class:HTTPAdapter
+requote_uri	template/file/effect_stat/requests/utils.py	/^def requote_uri(uri):$/;"	f
+reraise	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def reraise(tp, value, tb=None):$/;"	f
+reset	template/file/effect_stat/requests/packages/chardet/chardistribution.py	/^    def reset(self):$/;"	m	class:CharDistributionAnalysis
+reset	template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py	/^    def reset(self):$/;"	m	class:CharSetGroupProber
+reset	template/file/effect_stat/requests/packages/chardet/charsetprober.py	/^    def reset(self):$/;"	m	class:CharSetProber
+reset	template/file/effect_stat/requests/packages/chardet/codingstatemachine.py	/^    def reset(self):$/;"	m	class:CodingStateMachine
+reset	template/file/effect_stat/requests/packages/chardet/escprober.py	/^    def reset(self):$/;"	m	class:EscCharSetProber
+reset	template/file/effect_stat/requests/packages/chardet/eucjpprober.py	/^    def reset(self):$/;"	m	class:EUCJPProber
+reset	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def reset(self):$/;"	m	class:HebrewProber
+reset	template/file/effect_stat/requests/packages/chardet/jpcntx.py	/^    def reset(self):$/;"	m	class:JapaneseContextAnalysis
+reset	template/file/effect_stat/requests/packages/chardet/latin1prober.py	/^    def reset(self):$/;"	m	class:Latin1Prober
+reset	template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py	/^    def reset(self):$/;"	m	class:MultiByteCharSetProber
+reset	template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py	/^    def reset(self):$/;"	m	class:SingleByteCharSetProber
+reset	template/file/effect_stat/requests/packages/chardet/sjisprober.py	/^    def reset(self):$/;"	m	class:SJISProber
+reset	template/file/effect_stat/requests/packages/chardet/universaldetector.py	/^    def reset(self):$/;"	m	class:UniversalDetector
+reset	template/file/effect_stat/requests/packages/chardet/utf8prober.py	/^    def reset(self):$/;"	m	class:UTF8Prober
+resolve_cert_reqs	template/file/effect_stat/requests/packages/urllib3/util.py	/^def resolve_cert_reqs(candidate):$/;"	f
+resolve_redirects	template/file/effect_stat/requests/sessions.py	/^    def resolve_redirects(self, resp, req, stream=False, timeout=None,$/;"	m	class:SessionRedirectMixin
+resolve_ssl_version	template/file/effect_stat/requests/packages/urllib3/util.py	/^def resolve_ssl_version(candidate):$/;"	f
+runningTask	main.c	/^} runningTask;$/;"	v
+save_to_sql_file	template/file/rap_click_distribution/get_sql.py	/^def save_to_sql_file(sql_body, outf):$/;"	f
+send	template/file/effect_stat/requests/adapters.py	/^    def send(self):$/;"	m	class:BaseAdapter
+send	template/file/effect_stat/requests/adapters.py	/^    def send(self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None):$/;"	m	class:HTTPAdapter
+send	template/file/effect_stat/requests/sessions.py	/^    def send(self, request, **kwargs):$/;"	m	class:Session
+sendall	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def sendall(self, data):$/;"	m	class:WrappedSocket
+session	template/file/effect_stat/requests/sessions.py	/^def session():$/;"	f
+set	template/file/effect_stat/requests/cookies.py	/^    def set(self, name, value, **kwargs):$/;"	m	class:RequestsCookieJar
+setAccessToken	template/file/effect_stat/ApiSDKJsonClient.py	/^    def setAccessToken(self,accessToken):$/;"	m	class:ApiSDKJsonClient
+setAccessToken	template/file/effect_stat/AuthHeader.py	/^    def setAccessToken(self,accessToken):$/;"	m	class:AuthHeader
+setBody	template/file/effect_stat/JsonEnvelop.py	/^    def setBody(self,body):$/;"	m	class:JsonEnvelop
+setHeader	template/file/effect_stat/JsonEnvelop.py	/^    def setHeader(self,header):$/;"	m	class:JsonEnvelop
+setPassword	template/file/effect_stat/ApiSDKJsonClient.py	/^    def setPassword(self,password):$/;"	m	class:ApiSDKJsonClient
+setPassword	template/file/effect_stat/AuthHeader.py	/^    def setPassword(self,password):$/;"	m	class:AuthHeader
+setTarget	template/file/effect_stat/ApiSDKJsonClient.py	/^    def setTarget(self,target):$/;"	m	class:ApiSDKJsonClient
+setTarget	template/file/effect_stat/AuthHeader.py	/^    def setTarget(self,target):$/;"	m	class:AuthHeader
+setToken	template/file/effect_stat/ApiSDKJsonClient.py	/^    def setToken(self,token):$/;"	m	class:ApiSDKJsonClient
+setToken	template/file/effect_stat/AuthHeader.py	/^    def setToken(self,token):$/;"	m	class:AuthHeader
+setUrl	template/file/effect_stat/ApiSDKJsonClient.py	/^    def setUrl(self,url):$/;"	m	class:ApiSDKJsonClient
+setUsername	template/file/effect_stat/ApiSDKJsonClient.py	/^    def setUsername(self,username):$/;"	m	class:ApiSDKJsonClient
+setUsername	template/file/effect_stat/AuthHeader.py	/^    def setUsername(self,username):$/;"	m	class:AuthHeader
+set_cert	template/file/effect_stat/requests/packages/urllib3/connection.py	/^    def set_cert(self, key_file=None, cert_file=None,$/;"	m	class:VerifiedHTTPSConnection
+set_cookie	template/file/effect_stat/requests/cookies.py	/^    def set_cookie(self, cookie, *args, **kwargs):$/;"	m	class:RequestsCookieJar
+set_model_probers	template/file/effect_stat/requests/packages/chardet/hebrewprober.py	/^    def set_model_probers(self, logicalProber, visualProber):$/;"	m	class:HebrewProber
+set_null_tags	template/file/effect_stat/add_tag_to_report.py	/^def set_null_tags(col_name_line):$/;"	f
+setdefault	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def setdefault(self, key, default=None):$/;"	m	class:OrderedDict
+settimeout	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^    def settimeout(self, timeout):$/;"	m	class:WrappedSocket
+sha_utf8	template/file/effect_stat/requests/auth.py	/^            def sha_utf8(x):$/;"	m	class:HTTPDigestAuth
+should_bypass_proxies	template/file/effect_stat/requests/utils.py	/^def should_bypass_proxies(url):$/;"	f
+signal_handler	daemonize.c	/^void signal_handler(int sig)$/;"	f
+skip	cJSON.c	/^static const char *skip(const char *in) {while (in && *in && (unsigned char)*in<=32) in++; return in;}$/;"	f	file:
+sms_v3_ReportService	template/file/effect_stat/sms_v3_ReportService.py	/^class sms_v3_ReportService(ApiSDKJsonClient):$/;"	c
+split_first	template/file/effect_stat/requests/packages/urllib3/util.py	/^def split_first(s, delims):$/;"	f
+ssl_wrap_socket	template/file/effect_stat/requests/packages/urllib3/contrib/pyopenssl.py	/^def ssl_wrap_socket(sock, keyfile=None, certfile=None, cert_reqs=None,$/;"	f
+ssl_wrap_socket	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def ssl_wrap_socket(sock, keyfile=None, certfile=None, cert_reqs=None,$/;"	f
+start_connect	template/file/effect_stat/requests/packages/urllib3/util.py	/^    def start_connect(self):$/;"	m	class:Timeout
+stream	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def stream(self, amt=2**16, decode_content=None):$/;"	m	class:HTTPResponse
+stream_decode_response_unicode	template/file/effect_stat/requests/utils.py	/^def stream_decode_response_unicode(iterator, r):$/;"	f
+string	cJSON.h	/^	char *string;				\/* The item's name string, if this item is the child of, or is in the list of subitems of an object. *\/$/;"	m	struct:cJSON
+suffix_object	cJSON.c	/^static void suffix_object(cJSON *prev,cJSON *item) {prev->next=item;item->prev=prev;}$/;"	f	file:
+super_len	template/file/effect_stat/requests/utils.py	/^def super_len(o):$/;"	f
+tagged_by_dict	template/file/rap_tagged_dict/autotag.py	/^def tagged_by_dict(query_dict, query, account):$/;"	f
+tagged_by_rules	template/file/rap_tagged_dict/autotag.py	/^def tagged_by_rules(rules_array,query,account):	$/;"	f
+taskDir	main.c	/^    char taskDir[1024];$/;"	m	struct:taskList	file:
+taskInfo	main.c	/^struct taskInfo{$/;"	s	file:
+taskList	main.c	/^struct taskList{$/;"	s	file:
+tell	template/file/effect_stat/requests/packages/urllib3/response.py	/^    def tell(self):$/;"	m	class:HTTPResponse
+text	template/file/effect_stat/requests/models.py	/^    def text(self):$/;"	m	class:Response
+to_key_val_list	template/file/effect_stat/requests/utils.py	/^def to_key_val_list(value):$/;"	f
+to_native_string	template/file/effect_stat/requests/utils.py	/^def to_native_string(string, encoding='ascii'):$/;"	f
+type	cJSON.h	/^	int type;					\/* The type of the item, as above. *\/$/;"	m	struct:cJSON
+u	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^    def u(s):$/;"	f
+unquote_header_value	template/file/effect_stat/requests/utils.py	/^def unquote_header_value(value, is_filename=False):$/;"	f
+unquote_unreserved	template/file/effect_stat/requests/utils.py	/^def unquote_unreserved(uri):$/;"	f
+unverifiable	template/file/effect_stat/requests/cookies.py	/^    def unverifiable(self):$/;"	m	class:MockRequest
+update	template/file/effect_stat/requests/cookies.py	/^    def update(self, other):$/;"	m	class:RequestsCookieJar
+update	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def update(*args, **kwds):$/;"	m	class:OrderedDict
+urlopen	template/file/effect_stat/requests/packages/urllib3/connectionpool.py	/^    def urlopen(self, method, url, body=None, headers=None, retries=3,$/;"	m	class:HTTPConnectionPool
+urlopen	template/file/effect_stat/requests/packages/urllib3/contrib/ntlmpool.py	/^    def urlopen(self, method, url, body=None, headers=None, retries=3,$/;"	m	class:NTLMConnectionPool
+urlopen	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def urlopen(self, method, url, redirect=True, **kw):$/;"	m	class:PoolManager
+urlopen	template/file/effect_stat/requests/packages/urllib3/poolmanager.py	/^    def urlopen(self, method, url, redirect=True, **kw):$/;"	m	class:ProxyManager
+urlopen	template/file/effect_stat/requests/packages/urllib3/request.py	/^    def urlopen(self, method, url, body=None, headers=None,$/;"	m	class:RequestMethods
+usage	template/file/word_tagging/autotag.py	/^def usage():$/;"	f
+valuedouble	cJSON.h	/^	double valuedouble;			\/* The item's number, if type==cJSON_Number *\/$/;"	m	struct:cJSON
+valueint	cJSON.h	/^	int valueint;				\/* The item's number, if type==cJSON_Number *\/$/;"	m	struct:cJSON
+values	template/file/effect_stat/requests/cookies.py	/^    def values(self):$/;"	m	class:RequestsCookieJar
+values	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def values(self):$/;"	m	class:OrderedDict
+valuestring	cJSON.h	/^	char *valuestring;			\/* The item's string, if type==cJSON_String *\/$/;"	m	struct:cJSON
+viewitems	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def viewitems(self):$/;"	m	class:OrderedDict
+viewkeys	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def viewkeys(self):$/;"	m	class:OrderedDict
+viewvalues	template/file/effect_stat/requests/packages/urllib3/packages/ordered_dict.py	/^    def viewvalues(self):$/;"	m	class:OrderedDict
+where	template/file/effect_stat/requests/certs.py	/^def where():$/;"	f
+with_metaclass	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^def with_metaclass(meta, base=object):$/;"	f
+wloption	Makefile	/^wloption=-Wl,-rpath=\/home\/work\/.jumbo\/lib$/;"	m
+workspace	main.c	/^const char *workspace;$/;"	v
+wrap_ord	template/file/effect_stat/requests/packages/chardet/compat.py	/^def wrap_ord(a):$/;"	f
+write	template/file/effect_stat/requests/packages/urllib3/packages/six.py	/^        def write(data):$/;"	f
+write_conf	template/file/rap_click_distribution/conf.py	/^def write_conf(dir,subtaskid,wordbag,channel,date_list,group_by_attrs,pid):$/;"	f

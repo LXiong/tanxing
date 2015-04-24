@@ -1,0 +1,208 @@
+[
+  {
+    "job":"get_query",
+    "file":{"common":["bin/common"],"conf":["bin/conf"] },   
+    "command":"cd bin/common && sh get_query.sh ${subtask_id} ${date} ${trade} ${trade_level} ${channel}",
+    "dependency":["head"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"gs_prepare",
+    "file":{"common":["bin/common"],"conf":["bin/conf"] },   
+    "command":"cd bin/common && sh gs_prepare.sh ${subtask_id}",
+    "dependency":["get_query"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_people",
+    "file":{"common":["bin/common"],"conf":["bin/conf"] },   
+    "command":"cd bin/common && sh get_people.sh ${subtask_id} ${province} ${city} ${channel}",
+    "dependency":["gs_prepare"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"sex",
+    "file":{"demography":["bin/demography"],"conf":["bin/conf"] },   
+    "command":"cd bin/demography && sh sex.sh ${subtask_id}",
+    "dependency":["get_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"age",
+    "file":{"demography":["bin/demography"],"conf":["bin/conf"] },   
+    "command":"cd bin/demography && sh age.sh ${subtask_id}",
+    "dependency":["get_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"job",
+    "file":{"demography":["bin/demography"],"conf":["bin/conf"] },
+    "command":"cd bin/demography && sh job.sh ${subtask_id}",   
+    "dependency":["get_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"area",
+    "file":{"demography":["bin/demography"],"conf":["bin/conf"] },
+    "command":"cd bin/demography && sh area.sh ${subtask_id}",   
+    "dependency":["get_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_behavior",
+    "file":{"common":["bin/common"],"conf":["bin/conf"] },
+    "command":"cd bin/common && sh get_behavior.sh ${subtask_id}",   
+    "dependency":["get_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"behavior_summary",
+    "file":{"behavior":["bin/behavior"],"conf":["bin/conf"] },
+    "command":"cd bin/behavior && sh channel_stat.sh ${subtask_id}",   
+    "dependency":["get_behavior"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"channel_visit_path",
+    "file":{"behavior":["bin/behavior"],"conf":["bin/conf"] },
+    "command":"cd bin/behavior && sh channel_path.sh ${subtask_id}",   
+    "dependency":["get_behavior"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"behavior_paths",
+    "file":{"behavior":["bin/behavior"],"conf":["bin/conf"] },
+    "command":"cd bin/behavior && sh sequence_by_step.sh ${subtask_id} && sh sequence_original.sh ${subtask_id}",   
+    "dependency":["get_behavior"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"global_keyword_rank",
+    "file":{"behavior":["bin/behavior"],"conf":["bin/conf"] },
+    "command":"cd bin/behavior && sh query_all_stat.sh ${subtask_id}",   
+    "dependency":["get_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_brand_query",
+    "file":{"common":["bin/common"],"conf":["bin/conf"] },   
+    "command":"cd bin/common && sh get_brand_query.sh ${subtask_id} ${brand}",
+    "dependency":["head"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_brand_people",
+    "file":{"common":["bin/common"],"conf":["bin/conf"] },   
+    "command":"cd bin/common && sh get_brand_people.sh ${subtask_id} ${province} ${city} ${channel} ${date}",
+    "dependency":["get_brand_query"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_brand_uv",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"competition_analyze":["bin/competition_analyze"] },   
+    "command":"cd bin/competition_analyze && sh get_brand_uv.sh ${subtask_id} ${channel} ${brand}",
+    "dependency":["get_brand_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"uv_traffic_exchange",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"competition_analyze":["bin/competition_analyze"] },   
+    "command":"cd bin/competition_analyze && sh competitive_stat.sh ${brand}",
+    "dependency":["get_brand_uv"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"similarity_stat",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"competition_analyze":["bin/competition_analyze"] },   
+    "command":"cd bin/competition_analyze && sh similarity_stat.sh ${brand}",
+    "dependency":["get_brand_uv"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"market_competition",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"competition_analyze":["bin/competition_analyze"] },   
+    "command":"cd bin/competition_analyze && sh mds_stat.sh ${brand}",
+    "dependency":["similarity_stat"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"market_overlap",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"competition_analyze":["bin/competition_analyze"] },   
+    "command":"cd bin/competition_analyze && sh overlap_stat.sh ${brand}",
+    "dependency":["similarity_stat"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_brand_cookie",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"brand_analyze":["bin/brand_analyze"]},
+    "command":"cd bin/brand_analyze && sh get_brand_cookie.sh ${subtask_id} ${brand}",
+    "dependency":["get_brand_people"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"get_brand_behavior",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"brand_analyze":["bin/brand_analyze"]},
+    "command":"cd bin/brand_analyze && sh brand_user_behavior.sh ${subtask_id} ${province} ${city} ${channel}",
+    "dependency":["get_brand_cookie"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"brand_preference",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"brand_analyze":["bin/brand_analyze"]},
+    "command":"cd bin/brand_analyze && sh brand_preference.sh ${subtask_id} ${brand}",
+    "dependency":["get_brand_behavior"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"hot_question",
+    "file":{"common":["bin/common"],"conf":["bin/conf"],"brand_analyze":["bin/brand_analyze"]},
+    "command":"cd bin/brand_analyze && sh hot_question.sh ${subtask_id} ${brand} ${channel}",
+    "dependency":["get_brand_cookie"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"rap_summarized_report",
+    "file":{"conf":["bin/conf"],"effect_stat":["bin/effect_stat"]},
+    "command":"cd bin/effect_stat && sh summary.sh ${subtask_id} ${date} ${account_name_file_http_loc} ${keyword_accname_tags_file_http_loc}",
+    "dependency":["head"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"rap_soc_list",
+    "file":{"conf":["bin/conf"],"effect_stat":["bin/effect_stat"]},
+    "command":"cd bin/effect_stat && sh soc.sh ${subtask_id} ${date} ${account_name_file_http_loc}",
+    "dependency":["head"],
+    "directory":["log","result"]
+  },
+  {
+    "job":"rap_tagged_dict",
+	"file":{"conf":["bin/conf"],"rap_tagged_dict":["bin/rap_tagged_dict"]},
+	"command":"cd bin/rap_tagged_dict && sh rap_tagged_dict.sh ${subtask_id} ${dict_resource_url} ${rule_resource_url} ${original_query_file_url}",
+	"dependency":["head"],
+	"directory":["log","result"]
+  },
+  {
+    "job":"rap_click_distribution",
+    "file":{"conf":["bin/conf"],"rap_click_distribution":["bin/rap_click_distribution"]},
+    "command":"cd bin/rap_click_distribution && sh run.sh ${subtask_id} ${channel} ${date} ${word_file_url} ${summary_dimension_field}",
+    "dependency":["head"],
+    "directory":["log","result"]
+<<<<<<< .mine
+  },
+  {
+    "job":"rap_query_trend",
+    "file":{"conf":["bin/conf"],"rap_query_trend":["bin/rap_query_trend"]},
+    "command":"cd bin/rap_query_trend && sh run.sh ${subtask_id} ${channel} ${date} ${area} ${word_file_url} ${time_particle} ${area_particle}",
+    "dependency":["head"],
+    "directory":["log","result"]
+=======
+  },
+  {
+    "job":"rap_keyword_list",
+    "file":{"conf":["bin/conf"],"rap_keyword_report":["bin/rap_keyword_report"]},
+    "command":"cd bin/effect_stat && sh get_keyword_report.sh ${subtask_id} ${date} ${keyword_list_url}",
+    "dependency":["head"],
+    "directory":["log","result"]
+>>>>>>> .r1055
+  }
+]

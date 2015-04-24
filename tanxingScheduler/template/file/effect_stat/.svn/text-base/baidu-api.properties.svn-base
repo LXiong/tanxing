@@ -1,0 +1,7 @@
+[api]
+serverUrl=http://10.65.3.14:8180
+username=
+password=12345678
+token=5aacfe586f3612843286ab76107320ba
+target=
+action=API-SDK

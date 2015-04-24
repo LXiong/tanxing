@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet
+END
+chardistribution.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/chardistribution.py
+END
+gb2312freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/gb2312freq.py
+END
+langgreekmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/langgreekmodel.py
+END
+charsetgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/charsetgroupprober.py
+END
+eucjpprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/eucjpprober.py
+END
+sbcsgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/sbcsgroupprober.py
+END
+cp949prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/cp949prober.py
+END
+euckrprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/euckrprober.py
+END
+mbcssm.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/mbcssm.py
+END
+hebrewprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/hebrewprober.py
+END
+euckrfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/euckrfreq.py
+END
+codingstatemachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/codingstatemachine.py
+END
+langcyrillicmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/langcyrillicmodel.py
+END
+langhebrewmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/langhebrewmodel.py
+END
+utf8prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/utf8prober.py
+END
+universaldetector.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/universaldetector.py
+END
+jisfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/jisfreq.py
+END
+jpcntx.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/jpcntx.py
+END
+chardetect.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/chardetect.py
+END
+escsm.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/escsm.py
+END
+mbcharsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/mbcharsetprober.py
+END
+sjisprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/sjisprober.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/compat.py
+END
+escprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/escprober.py
+END
+langbulgarianmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/langbulgarianmodel.py
+END
+sbcharsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/sbcharsetprober.py
+END
+langhungarianmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/langhungarianmodel.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/__init__.py
+END
+big5prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/big5prober.py
+END
+euctwprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/euctwprober.py
+END
+latin1prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/latin1prober.py
+END
+charsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/charsetprober.py
+END
+big5freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/big5freq.py
+END
+euctwfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/euctwfreq.py
+END
+langthaimodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/langthaimodel.py
+END
+gb2312prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/gb2312prober.py
+END
+mbcsgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/mbcsgroupprober.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/chardet/constants.py
+END

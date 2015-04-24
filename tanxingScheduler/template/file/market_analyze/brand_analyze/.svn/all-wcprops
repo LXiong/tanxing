@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze
+END
+brand_preference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/market_analyze/brand_analyze/brand_preference.sh
+END
+brand_preference_category.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze/brand_preference_category.sql
+END
+hot_question_global.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze/hot_question_global.sql
+END
+brand_preference_time.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze/brand_preference_time.sql
+END
+brand_user_behavior.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze/brand_user_behavior.sql
+END
+hot_question_brand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze/hot_question_brand.sql
+END
+get_brand_cookie.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/market_analyze/brand_analyze/get_brand_cookie.sh
+END
+hot_question.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/market_analyze/brand_analyze/hot_question.sh
+END
+brand_user_behavior.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/market_analyze/brand_analyze/brand_user_behavior.sh
+END
+get_brand_cookie.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/market_analyze/brand_analyze/get_brand_cookie.sql
+END

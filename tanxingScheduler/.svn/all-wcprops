@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sem/bim/dm/!svn/ver/1219/trunk/statistics/tanxingScheduler
+END
+killTask.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/killTask.sh
+END
+default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/default.conf
+END
+checkDone.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/checkDone.sh
+END
+daemonize.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/daemonize.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sem/bim/dm/!svn/ver/924/trunk/statistics/tanxingScheduler/Makefile
+END
+cJSON.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/cJSON.c
+END
+extractTemplate.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/extractTemplate.py
+END
+stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/stop.sh
+END
+daemonize.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/daemonize.h
+END
+cJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sem/bim/dm/!svn/ver/770/trunk/statistics/tanxingScheduler/cJSON.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sem/bim/dm/!svn/ver/1163/trunk/statistics/tanxingScheduler/main.c
+END

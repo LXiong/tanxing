@@ -1,0 +1,11 @@
+#!/bin/bash
+
+QE_SEM_OTHER='/home/work/QueryEngine_Client/queryengine-client-1.6.11-online/queryengine/bin/queryengine';
+export QUERYENGINE_HOME='/home/work/QueryEngine_Client/queryengine-client-1.6.11-online/queryengine'
+abspath () { case "$1" in /*)printf "%s\n" "$1";; *)printf "%s\n" "$PWD/$1";; esac; }
+base_dir="$(abspath $(dirname $0))";
+result_dir=${base_dir}/../../result/
+log_dir=${base_dir}/../../log/
+global_lock_dir=${HOME}/local/var/job/statistics_1-0-1_BL/output/tanxingScheduler/lock
+PY_PATH=/usr/bin/python
+CURL_API_LOC='http://tanxing.baidu.com:8080/data/upapi';

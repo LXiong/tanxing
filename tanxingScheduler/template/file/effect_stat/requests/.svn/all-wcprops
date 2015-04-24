@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests
+END
+certs.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/certs.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/exceptions.py
+END
+structures.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/structures.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/models.py
+END
+hooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/hooks.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/compat.py
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/cacert.pem
+END
+cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/cookies.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/utils.py
+END
+status_codes.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/status_codes.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/auth.py
+END
+adapters.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/adapters.py
+END
+sessions.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/sessions.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/api.py
+END

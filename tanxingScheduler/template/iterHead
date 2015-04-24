@@ -1,0 +1,29 @@
+#!/bin/bash
+##########################迭代公共头部#######################################
+echo "Parameters list: $*"
+sf_framework_script_path=$1
+if [ ! -d ${sf_framework_script_path} ]
+then
+	echo "Cannot find framework script_path ${sf_framework_script_path}"
+	exit 1
+fi
+
+sf_parameters_parser=${sf_framework_script_path}/parse_parameters.sh
+if [ ! -f ${sf_parameters_parser} ]
+then
+	echo "Cannot find ${sf_parameters_parser}"
+	exit 1
+fi
+
+source ${sf_parameters_parser}
+
+sf_log_dir=${sf_stra_dir}/log
+sf_script_dir=${sf_stra_dir}/script
+sf_iter_dir=${sf_stra_dir}/iter
+sf_bin_dir=${sf_stra_dir}/bin
+sf_conf_dir=${sf_stra_dir}/conf
+sf_tmp_dir=${sf_stra_dir}/tmp
+
+cur_path=`pwd`
+cd ${sf_stra_dir}
+##############################迭代逻辑处理###################################

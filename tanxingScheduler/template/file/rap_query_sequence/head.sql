@@ -1,0 +1,10 @@
+set mapred.job.name = 'rap_query_sequence';
+set mapred.job.map.capacity = 300;
+set mapred.job.reduce.capacity = 300;
+set hive.exec.reducers.max = 300;
+set hive.mapred.mode=nonstrict;
+SET mapred.job.priority = HIGH;
+set hive.map.aggr=true;
+set hive.groupby.skewindata=true;
+tmp_db = database mydb.tmp_db;
+use tmp_db;

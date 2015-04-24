@@ -1,0 +1,18 @@
+{
+  "database":{
+    "dbStaticResult":{
+        "host":"127.0.0.1",
+        "port":3396,
+        "database":"bim_app_statistic_result_db",
+        "user":"writer",
+        "password":"bim123456"
+    },
+	"db_bim_rap_result_db":{
+      "host":"127.0.0.1",
+        "port":3396,
+        "database":"bim_rap_result_db",
+        "user":"writer",
+        "password":"bim123456"
+	}
+  }
+}

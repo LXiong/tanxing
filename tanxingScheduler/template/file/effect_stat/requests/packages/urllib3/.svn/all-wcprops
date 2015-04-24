@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3
+END
+request.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/request.py
+END
+connectionpool.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/connectionpool.py
+END
+_collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/_collections.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/util.py
+END
+response.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/response.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/__init__.py
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/connection.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/exceptions.py
+END
+poolmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/poolmanager.py
+END
+filepost.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/filepost.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sem/bim/dm/!svn/ver/910/trunk/statistics/tanxingScheduler/template/file/effect_stat/requests/packages/urllib3/fields.py
+END

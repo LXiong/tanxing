@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sem/bim/dm/!svn/ver/1208/trunk/statistics/statistics/common
+END
+get_brand_query.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/common/get_brand_query.sql
+END
+get_brand_people_pc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_brand_people_pc.sql
+END
+brand_people_format.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sem/bim/dm/!svn/ver/1194/trunk/statistics/statistics/common/brand_people_format.sh
+END
+get_query.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_query.sh
+END
+get_brand_people_wise.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_brand_people_wise.sql
+END
+get_query_account.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_query_account.sql
+END
+transform_account.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/transform_account.py
+END
+add_stay_time.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/add_stay_time.sh
+END
+get_people.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_people.sql
+END
+create_table_brand_people.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/create_table_brand_people.sql
+END
+get_brand_query.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/get_brand_query.sh
+END
+get_query_account.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_query_account.sh
+END
+get_brand_query_from_file.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sem/bim/dm/!svn/ver/1187/trunk/statistics/statistics/common/get_brand_query_from_file.sql
+END
+brand_uniq.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/brand_uniq.sh
+END
+get_behavior.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sem/bim/dm/!svn/ver/954/trunk/statistics/statistics/common/get_behavior.sql
+END
+get_people.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/get_people.sh
+END
+SemUDF.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/SemUDF.jar
+END
+UDAFGroupConcat.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/UDAFGroupConcat.jar
+END
+tanxing.udf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/tanxing.udf.jar
+END
+gs_prepare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/gs_prepare.sh
+END
+get_brand_people.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sem/bim/dm/!svn/ver/1162/trunk/statistics/statistics/common/get_brand_people.sh
+END
+get_query.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sem/bim/dm/!svn/ver/1220/trunk/statistics/statistics/common/get_query.sql
+END
+func.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/func.sh
+END
+get_brand_query_from_file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sem/bim/dm/!svn/ver/1162/trunk/statistics/statistics/common/get_brand_query_from_file.sh
+END
+get_behavior.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sem/bim/dm/!svn/ver/770/trunk/statistics/statistics/common/get_behavior.sh
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sem/bim/dm/!svn/ver/992/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution
+END
+get_sql.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sem/bim/dm/!svn/ver/992/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution/get_sql.py
+END
+bind_out.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sem/bim/dm/!svn/ver/953/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution/bind_out.py
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sem/bim/dm/!svn/ver/956/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution/conf.py
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sem/bim/dm/!svn/ver/992/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution/run.sh
+END
+qe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sem/bim/dm/!svn/ver/953/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution/qe.sh
+END
+head.file
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sem/bim/dm/!svn/ver/992/trunk/statistics/tanxingScheduler/template/file/rap_click_distribution/head.file
+END
